@@ -1,12 +1,12 @@
 <Form>
 <Form>
 <ID>7c993dbc-420a-48f2-be4f-c37ef23732c2</ID>
-<Title>DataTool_1</Title>
-<TabPageName>DataTool_1</TabPageName>
+<Title>LineChart</Title>
+<TabPageName>LineChart</TabPageName>
 <AssemblyFile>LicensedAnimatGUI.dll</AssemblyFile>
 <ClassName>LicensedAnimatGUI.Forms.Charts.LineChart</ClassName>
 <AutoCollectInterval>True</AutoCollectInterval>
-<CollectDataInterval Value="0.2" Scale="milli" Actual="0.0002"/>
+<CollectDataInterval Value="0.6" Scale="milli" Actual="0.0006"/>
 <CollectTimeWindow Value="11.02" Scale="None" Actual="11.02"/>
 <UpdateDataInterval Value="200" Scale="milli" Actual="0.2"/>
 <SetStartEndTime>True</SetStartEndTime>
@@ -16,34 +16,34 @@
 <Axis>
 <AssemblyFile>LicensedAnimatGUI.dll</AssemblyFile>
 <ClassName>LicensedAnimatGUI.DataObjects.Charting.Pro2DAxis</ClassName>
-<Name>Y Axis 2</Name>
+<Name>Y Axis 1</Name>
 <WorkingAxis>0</WorkingAxis>
 <DataColumns>
 <DataColumn>
 <AssemblyFile>LicensedAnimatGUI.dll</AssemblyFile>
 <ClassName>LicensedAnimatGUI.DataObjects.Charting.Pro2DColumn</ClassName>
-<Name>1</Name>
-<ID>7dd245bf-c43e-4af5-b3e9-edce875746bb</ID>
-<DataItemAssemblyFile>IntegrateFireGUI.dll</DataItemAssemblyFile>
-<DataItemClassName>IntegrateFireGUI.DataObjects.Behavior.Neurons.NonSpiking</DataItemClassName>
+<Name>Y Position</Name>
+<ID>d65a1056-1add-424e-bdd1-c1d035152f25</ID>
+<DataItemAssemblyFile>AnimatGUI.dll</DataItemAssemblyFile>
+<DataItemClassName>AnimatGUI.DataObjects.Physical.Bodies.Box</DataItemClassName>
 <StructureID>31b520a9-444c-41da-8332-61b8cbcdc09c</StructureID>
-<DataItemID>18cc7e2f-29de-4700-bd55-33e076be2b28</DataItemID>
-<SelectedDataType>MembraneVoltage</SelectedDataType>
+<DataItemID>487048ca-7aa9-4361-9872-59982e27d4b6</DataItemID>
+<SelectedDataType>WorldPositionY</SelectedDataType>
 <DataSubSet>0</DataSubSet>
-<PrevDataSubset>1</PrevDataSubset>
+<PrevDataSubset>0</PrevDataSubset>
 <UseIncomingDataType>False</UseIncomingDataType>
 <LineType>MediumSolid</LineType>
 <PointType>Plus</PointType>
 <PlotMethodType>Line</PlotMethodType>
-<LineColor>-16711936</LineColor>
+<LineColor>-65536</LineColor>
 </DataColumn>
 </DataColumns>
 </Axis>
 </AxisList>
 <SaveDataWhenClosed>False</SaveDataWhenClosed>
 <UpdateChartAtEnd>True</UpdateChartAtEnd>
-<PointsToKeep>55100</PointsToKeep>
+<PointsToKeep>18367</PointsToKeep>
 <YAxisOffset>0</YAxisOffset>
-<GraphConfig ByteCount="8936"/>
+<GraphConfig ByteCount="8941"/>
 </Form>
 </Form>
