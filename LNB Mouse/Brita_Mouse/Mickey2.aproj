@@ -511,7 +511,7 @@
 <Y Value="0" Scale="None" Actual="0"/>
 <Z Value="0" Scale="None" Actual="0"/>
 </Rotation>
-<LocalMatrix>1,3.91205e-035,1.11022e-016,0,-2.43945e-019,1,1.0842e-019,0,-1.11022e-016,8.13152e-020,1,0,0.227606,-0.0434756,-0.240364,1</LocalMatrix>
+<LocalMatrix>1,0,0,0,0,1,0,0,0,0,1,0,0.227606,-0.0434756,-0.240364,1</LocalMatrix>
 <DraggerSize Value="-1" Scale="None" Actual="-1"/>
 <Type>Attachment</Type>
 <PartType>AnimatGUI.DataObjects.Physical.Bodies.Attachment</PartType>
@@ -581,7 +581,7 @@
 <Y Value="0" Scale="None" Actual="0"/>
 <Z Value="0" Scale="None" Actual="0"/>
 </Rotation>
-<LocalMatrix>1,5.42101e-020,0,0,-8.13152e-020,1,4.06576e-020,0,-5.55112e-017,-4.06576e-020,1,0,-0.264815,1.11019e-016,-0.201364,1</LocalMatrix>
+<LocalMatrix>1,0,0,0,0,1,0,0,0,0,1,0,-0.264815,0,-0.201364,1</LocalMatrix>
 <DraggerSize Value="-1" Scale="None" Actual="-1"/>
 <Type>Attachment</Type>
 <PartType>AnimatGUI.DataObjects.Physical.Bodies.Attachment</PartType>
@@ -1195,7 +1195,7 @@
 <Y Value="0" Scale="None" Actual="0"/>
 <Z Value="0" Scale="None" Actual="0"/>
 </Rotation>
-<LocalMatrix>1,6.77626e-020,-8.32667e-017,0,-1.35525e-020,1,5.42101e-020,0,5.55112e-017,2.71051e-020,1,0,-0.0985,1.16717e-020,0.104607,1</LocalMatrix>
+<LocalMatrix>1,0,0,0,0,1,0,0,0,0,1,0,-0.0985,0,0.104607,1</LocalMatrix>
 <DraggerSize Value="-1" Scale="None" Actual="-1"/>
 <Type>Attachment</Type>
 <PartType>AnimatGUI.DataObjects.Physical.Bodies.Attachment</PartType>
@@ -1265,7 +1265,7 @@
 <Y Value="0" Scale="None" Actual="0"/>
 <Z Value="0" Scale="None" Actual="0"/>
 </Rotation>
-<LocalMatrix>1,6.09864e-020,-1.11022e-016,0,-4.74338e-020,1,5.42101e-020,0,2.77556e-017,8.13152e-020,1,0,-0.0278081,-2.2202e-016,-0.220518,1</LocalMatrix>
+<LocalMatrix>1,0,0,0,0,1,0,0,0,0,1,0,-0.0278081,0,-0.220518,1</LocalMatrix>
 <DraggerSize Value="-1" Scale="None" Actual="-1"/>
 <Type>Attachment</Type>
 <PartType>AnimatGUI.DataObjects.Physical.Bodies.Attachment</PartType>
@@ -1344,7 +1344,7 @@
 <Y Value="0" Scale="None" Actual="0"/>
 <Z Value="0" Scale="None" Actual="0"/>
 </Rotation>
-<LocalMatrix>1,8.13152e-020,-1.66533e-016,0,-2.71051e-020,1,-6.01853e-036,0,-2.77556e-017,1.50463e-035,1,0,-0.70623,-8.5828e-020,-0.320262,1</LocalMatrix>
+<LocalMatrix>1,0,0,0,0,1,0,0,0,0,1,0,-0.70623,0,-0.320262,1</LocalMatrix>
 <DraggerSize Value="-1" Scale="None" Actual="-1"/>
 <Type>Attachment</Type>
 <PartType>AnimatGUI.DataObjects.Physical.Bodies.Attachment</PartType>
@@ -1414,7 +1414,7 @@
 <Y Value="0" Scale="None" Actual="0"/>
 <Z Value="0" Scale="None" Actual="0"/>
 </Rotation>
-<LocalMatrix>1,6.77626e-020,-1.66533e-016,0,-1.0842e-019,1,8.13152e-020,0,2.77556e-017,1.35525e-019,1,0,-0.582024,-1.11054e-016,0.157997,1</LocalMatrix>
+<LocalMatrix>1,0,0,0,0,1,0,0,0,0,1,0,-0.582024,0,0.157997,1</LocalMatrix>
 <DraggerSize Value="-1" Scale="None" Actual="-1"/>
 <Type>Attachment</Type>
 <PartType>AnimatGUI.DataObjects.Physical.Bodies.Attachment</PartType>
@@ -1484,7 +1484,7 @@
 <Y Value="0" Scale="None" Actual="0"/>
 <Z Value="0" Scale="None" Actual="0"/>
 </Rotation>
-<LocalMatrix>1,1.0842e-019,-1.66533e-016,0,-1.42302e-019,1,2.98156e-019,0,-1.94289e-016,-1.35525e-019,1,0,-0.248827,-0.0181992,-0.191578,1</LocalMatrix>
+<LocalMatrix>1,0,0,0,0,1,0,0,0,0,1,0,-0.248827,-0.0181992,-0.191578,1</LocalMatrix>
 <DraggerSize Value="-1" Scale="None" Actual="-1"/>
 <Type>Attachment</Type>
 <PartType>AnimatGUI.DataObjects.Physical.Bodies.Attachment</PartType>
@@ -1630,7 +1630,7 @@
 <Y Value="0" Scale="None" Actual="0"/>
 <Z Value="0" Scale="None" Actual="0"/>
 </Rotation>
-<LocalMatrix>1,8.13152e-020,-1.11022e-016,0,0,1,1.35525e-020,0,0,4.06576e-020,1,0,0.0429804,2.22013e-016,0.1638,1</LocalMatrix>
+<LocalMatrix>1,0,0,0,0,1,0,0,0,0,1,0,0.0429804,0,0.1638,1</LocalMatrix>
 <DraggerSize Value="-1" Scale="None" Actual="-1"/>
 <Type>Attachment</Type>
 <PartType>AnimatGUI.DataObjects.Physical.Bodies.Attachment</PartType>
@@ -1700,7 +1700,7 @@
 <Y Value="0" Scale="None" Actual="0"/>
 <Z Value="0" Scale="None" Actual="0"/>
 </Rotation>
-<LocalMatrix>1,1.0842e-019,-5.55112e-017,0,-5.42101e-020,1,5.42101e-020,0,0,-1.35525e-020,1,0,0.549224,4.44108e-016,-0.0219857,1</LocalMatrix>
+<LocalMatrix>1,0,0,0,0,1,0,0,0,0,1,0,0.549224,0,-0.0219857,1</LocalMatrix>
 <DraggerSize Value="-1" Scale="None" Actual="-1"/>
 <Type>Attachment</Type>
 <PartType>AnimatGUI.DataObjects.Physical.Bodies.Attachment</PartType>
@@ -2743,7 +2743,7 @@
 <Y Value="0" Scale="None" Actual="0"/>
 <Z Value="0" Scale="None" Actual="0"/>
 </Rotation>
-<LocalMatrix>1,2.71051e-020,-5.55112e-017,0,-1.35525e-020,1,5.42101e-020,0,1.66533e-016,-5.42101e-020,1,0,-0.559123,-2.22054e-016,0.154188,1</LocalMatrix>
+<LocalMatrix>1,0,0,0,0,1,0,0,0,0,1,0,-0.559123,0,0.154188,1</LocalMatrix>
 <DraggerSize Value="-1" Scale="None" Actual="-1"/>
 <Type>Attachment</Type>
 <PartType>AnimatGUI.DataObjects.Physical.Bodies.Attachment</PartType>
@@ -3313,7 +3313,7 @@
 <Y Value="0" Scale="None" Actual="0"/>
 <Z Value="0" Scale="None" Actual="0"/>
 </Rotation>
-<LocalMatrix>1,5.42101e-020,-4.996e-016,0,1.89735e-019,1,-5.7176e-035,0,-4.996e-016,-2.71051e-020,1,0,0.1215,-0.1649,0.136241,1</LocalMatrix>
+<LocalMatrix>1,0,0,0,0,1,0,0,0,0,1,0,0.1215,-0.1649,0.136241,1</LocalMatrix>
 <DraggerSize Value="-1" Scale="None" Actual="-1"/>
 <Type>Attachment</Type>
 <PartType>AnimatGUI.DataObjects.Physical.Bodies.Attachment</PartType>
@@ -3383,7 +3383,7 @@
 <Y Value="0" Scale="None" Actual="0"/>
 <Z Value="0" Scale="None" Actual="0"/>
 </Rotation>
-<LocalMatrix>1,-1.0842e-019,-4.996e-016,0,8.13152e-020,1,-1.80556e-035,0,-4.996e-016,4.06576e-020,1,0,0.255095,1.11059e-016,-0.211532,1</LocalMatrix>
+<LocalMatrix>1,0,0,0,0,1,0,0,0,0,1,0,0.255095,0,-0.211532,1</LocalMatrix>
 <DraggerSize Value="-1" Scale="None" Actual="-1"/>
 <Type>Attachment</Type>
 <PartType>AnimatGUI.DataObjects.Physical.Bodies.Attachment</PartType>
@@ -3453,7 +3453,7 @@
 <Y Value="0" Scale="None" Actual="0"/>
 <Z Value="0" Scale="None" Actual="0"/>
 </Rotation>
-<LocalMatrix>1,-2.71051e-020,-1.11022e-016,0,2.71051e-020,1,-1.35525e-020,0,-5.55112e-017,2.71051e-020,1,0,-0.214971,1.11022e-016,-0.1564,1</LocalMatrix>
+<LocalMatrix>1,0,0,0,0,1,0,0,0,0,1,0,-0.214971,0,-0.1564,1</LocalMatrix>
 <DraggerSize Value="-1" Scale="None" Actual="-1"/>
 <Type>Attachment</Type>
 <PartType>AnimatGUI.DataObjects.Physical.Bodies.Attachment</PartType>
@@ -3590,7 +3590,7 @@
 <Y Value="0" Scale="None" Actual="0"/>
 <Z Value="0" Scale="None" Actual="0"/>
 </Rotation>
-<LocalMatrix>1,-2.71051e-020,-1.66533e-016,0,-1.35417e-035,1,1.35525e-020,0,-1.66533e-016,2.71051e-020,1,0,0.0590371,-0.0030415,0.203521,1</LocalMatrix>
+<LocalMatrix>1,0,0,0,0,1,0,0,0,0,1,0,0.0590371,-0.0030415,0.203521,1</LocalMatrix>
 <DraggerSize Value="-1" Scale="None" Actual="-1"/>
 <Type>Attachment</Type>
 <PartType>AnimatGUI.DataObjects.Physical.Bodies.Attachment</PartType>
@@ -8988,6 +8988,116 @@
 <Stimulus>
 <AssemblyFile>AnimatGUI.dll</AssemblyFile>
 <ClassName>AnimatGUI.DataObjects.ExternalStimuli.TonicCurrent</ClassName>
+<Name>L_VL_Tonic</Name>
+<ID>e85247e7-6c11-45cf-b1a0-1e3254a0c513</ID>
+<StartTime Value="0" Scale="None" Actual="0"/>
+<EndTime Value="5" Scale="None" Actual="5"/>
+<StepInterval Value="0" Scale="milli" Actual="0"/>
+<AlwaysActive>True</AlwaysActive>
+<Enabled>True</Enabled>
+<ValueType>Equation</ValueType>
+<Equation>40*sin(t)</Equation>
+<OrganismID>d52c22a3-93fc-4167-b147-765f3750718b</OrganismID>
+<NodeID>05c3d2e7-dd1f-45ae-bea1-e006b1a3498a</NodeID>
+<CurrentOn Value="10" Scale="nano" Actual="1e-008"/>
+<CurrentOff Value="0" Scale="nano" Actual="0"/>
+<CurrentBurstOff Value="0" Scale="nano" Actual="0"/>
+<CycleOnDuration Value="5" Scale="None" Actual="5"/>
+<CycleOffDuration Value="0" Scale="milli" Actual="0"/>
+<BurstOnDuration Value="5" Scale="None" Actual="5"/>
+<BurstOffDuration Value="0" Scale="milli" Actual="0"/>
+</Stimulus>
+<Stimulus>
+<AssemblyFile>AnimatGUI.dll</AssemblyFile>
+<ClassName>AnimatGUI.DataObjects.ExternalStimuli.TonicCurrent</ClassName>
+<Name>L_AL_Tonic</Name>
+<ID>6899bece-e6ba-4a49-84d7-d970f58f2d7f</ID>
+<StartTime Value="0" Scale="None" Actual="0"/>
+<EndTime Value="5" Scale="None" Actual="5"/>
+<StepInterval Value="0" Scale="milli" Actual="0"/>
+<AlwaysActive>True</AlwaysActive>
+<Enabled>True</Enabled>
+<ValueType>Equation</ValueType>
+<Equation>40*sin(t)</Equation>
+<OrganismID>d52c22a3-93fc-4167-b147-765f3750718b</OrganismID>
+<NodeID>7f025c22-5246-497f-a979-093687fc1f2d</NodeID>
+<CurrentOn Value="10" Scale="nano" Actual="1e-008"/>
+<CurrentOff Value="0" Scale="nano" Actual="0"/>
+<CurrentBurstOff Value="0" Scale="nano" Actual="0"/>
+<CycleOnDuration Value="5" Scale="None" Actual="5"/>
+<CycleOffDuration Value="0" Scale="milli" Actual="0"/>
+<BurstOnDuration Value="5" Scale="None" Actual="5"/>
+<BurstOffDuration Value="0" Scale="milli" Actual="0"/>
+</Stimulus>
+<Stimulus>
+<AssemblyFile>AnimatGUI.dll</AssemblyFile>
+<ClassName>AnimatGUI.DataObjects.ExternalStimuli.TonicCurrent</ClassName>
+<Name>L_PMA_Tonic</Name>
+<ID>aac02d2a-84a1-4ed4-8c28-237ded20c634</ID>
+<StartTime Value="0" Scale="None" Actual="0"/>
+<EndTime Value="5" Scale="None" Actual="5"/>
+<StepInterval Value="0" Scale="milli" Actual="0"/>
+<AlwaysActive>True</AlwaysActive>
+<Enabled>True</Enabled>
+<ValueType>Equation</ValueType>
+<Equation>40*sin(t)</Equation>
+<OrganismID>d52c22a3-93fc-4167-b147-765f3750718b</OrganismID>
+<NodeID>f3be1c74-b8e1-4b3e-a330-064ac2f935ed</NodeID>
+<CurrentOn Value="10" Scale="nano" Actual="1e-008"/>
+<CurrentOff Value="0" Scale="nano" Actual="0"/>
+<CurrentBurstOff Value="0" Scale="nano" Actual="0"/>
+<CycleOnDuration Value="5" Scale="None" Actual="5"/>
+<CycleOffDuration Value="0" Scale="milli" Actual="0"/>
+<BurstOnDuration Value="5" Scale="None" Actual="5"/>
+<BurstOffDuration Value="0" Scale="milli" Actual="0"/>
+</Stimulus>
+<Stimulus>
+<AssemblyFile>AnimatGUI.dll</AssemblyFile>
+<ClassName>AnimatGUI.DataObjects.ExternalStimuli.TonicCurrent</ClassName>
+<Name>L_SOL_Tonic</Name>
+<ID>4ccc1531-eab1-428e-8a90-3dc93f7f1af8</ID>
+<StartTime Value="0" Scale="None" Actual="0"/>
+<EndTime Value="5" Scale="None" Actual="5"/>
+<StepInterval Value="0" Scale="milli" Actual="0"/>
+<AlwaysActive>True</AlwaysActive>
+<Enabled>True</Enabled>
+<ValueType>Equation</ValueType>
+<Equation>40*sin(t)</Equation>
+<OrganismID>d52c22a3-93fc-4167-b147-765f3750718b</OrganismID>
+<NodeID>105501fb-6e34-4229-90d8-dc1b20a52201</NodeID>
+<CurrentOn Value="10" Scale="nano" Actual="1e-008"/>
+<CurrentOff Value="0" Scale="nano" Actual="0"/>
+<CurrentBurstOff Value="0" Scale="nano" Actual="0"/>
+<CycleOnDuration Value="5" Scale="None" Actual="5"/>
+<CycleOffDuration Value="0" Scale="milli" Actual="0"/>
+<BurstOnDuration Value="5" Scale="None" Actual="5"/>
+<BurstOffDuration Value="0" Scale="milli" Actual="0"/>
+</Stimulus>
+<Stimulus>
+<AssemblyFile>AnimatGUI.dll</AssemblyFile>
+<ClassName>AnimatGUI.DataObjects.ExternalStimuli.TonicCurrent</ClassName>
+<Name>L_EHL_Tonic</Name>
+<ID>87905707-d339-4829-9ce7-968f0b7fe247</ID>
+<StartTime Value="0" Scale="None" Actual="0"/>
+<EndTime Value="5" Scale="None" Actual="5"/>
+<StepInterval Value="0" Scale="milli" Actual="0"/>
+<AlwaysActive>True</AlwaysActive>
+<Enabled>True</Enabled>
+<ValueType>Equation</ValueType>
+<Equation>40*sin(t)</Equation>
+<OrganismID>d52c22a3-93fc-4167-b147-765f3750718b</OrganismID>
+<NodeID>9d1fa694-dff8-4ec6-800f-b74ed1f65d95</NodeID>
+<CurrentOn Value="10" Scale="nano" Actual="1e-008"/>
+<CurrentOff Value="0" Scale="nano" Actual="0"/>
+<CurrentBurstOff Value="0" Scale="nano" Actual="0"/>
+<CycleOnDuration Value="5" Scale="None" Actual="5"/>
+<CycleOffDuration Value="0" Scale="milli" Actual="0"/>
+<BurstOnDuration Value="5" Scale="None" Actual="5"/>
+<BurstOffDuration Value="0" Scale="milli" Actual="0"/>
+</Stimulus>
+<Stimulus>
+<AssemblyFile>AnimatGUI.dll</AssemblyFile>
+<ClassName>AnimatGUI.DataObjects.ExternalStimuli.TonicCurrent</ClassName>
 <Name>L_ILI_Tonic</Name>
 <ID>2c4c4a27-933d-4fcf-a373-840a20df8ed9</ID>
 <StartTime Value="0" Scale="None" Actual="0"/>
@@ -9111,7 +9221,7 @@
 <AutomaticTimeScale>True</AutomaticTimeScale>
 <DivisionMarkFactor>4</DivisionMarkFactor>
 <Divisions>10</Divisions>
-<MajorInterval>5</MajorInterval>
+<MajorInterval>10</MajorInterval>
 <MiddleMarkFactor>3</MiddleMarkFactor>
 <TimeScale>Seconds</TimeScale>
 </Form>
@@ -9127,7 +9237,7 @@
 <DockingConfig>&lt;?xml version="1.0" encoding="us-ascii"?&gt;
 &lt;!-- DotNetMagic, The User Interface library for .NET (www.crownwood.net) --&gt;
 &lt;!-- Modifying this generated file will probably render it invalid --&gt;
-&lt;DockingConfig FormatVersion="10" InsideFill="False" InnerMinimum="20, 20" SavedAt="05/25/2020 17:04:55"&gt;
+&lt;DockingConfig FormatVersion="10" InsideFill="False" InnerMinimum="20, 20" SavedAt="05/25/2020 17:21:35"&gt;
   &lt;Content Name="Errors" Visible="True" Docked="True" AutoHidden="False" CaptionBar="True" CloseButton="False" DisplaySize="150, 125" DisplayLocation="150, 150" AutoHideSize="150, 125" FloatingSize="150, 150" FullTitle="Errors" Office2003BackColor="Base" UniqueName="" Office2007BackColor="Base" MediaPlayerBackColor="Base"&gt;
     &lt;DefaultRestore Type="Crownwood.DotNetMagic.Docking.RestoreContentState"&gt;
       &lt;Content Name="Errors" UniqueName="" /&gt;
@@ -9566,7 +9676,7 @@
   &lt;CustomGlobalData /&gt;
   &lt;Sequence Count="1" Unique="0" Space="100" Direction="Horizontal"&gt;
     &lt;Leaf Count="4" Unique="5" Space="100"&gt;
-      &lt;Page Title="Organism_1 Body" ImageList="True" ImageIndex="0" Selected="True" Control="null" UniqueName=""&gt;
+      &lt;Page Title="Organism_1 Body" ImageList="True" ImageIndex="0" Selected="False" Control="null" UniqueName=""&gt;
         &lt;CustomPageData&gt;&lt;![CDATA[&lt;TabPage&gt;
 &lt;Form&gt;
 &lt;ID&gt;48b397a5-42e4-489c-808f-1ba66bb6bbfb&lt;/ID&gt;
@@ -9608,7 +9718,7 @@
 &lt;/TabPage&gt;
 ]]&gt;&lt;/CustomPageData&gt;
       &lt;/Page&gt;
-      &lt;Page Title="DataTool_2" ImageList="True" ImageIndex="2" Selected="False" Control="null" UniqueName=""&gt;
+      &lt;Page Title="DataTool_2" ImageList="True" ImageIndex="2" Selected="True" Control="null" UniqueName=""&gt;
         &lt;CustomPageData&gt;&lt;![CDATA[&lt;TabPage&gt;
 &lt;Form&gt;
 &lt;ID&gt;96659069-eb76-46de-8ec7-4759f4a7c3d6&lt;/ID&gt;
