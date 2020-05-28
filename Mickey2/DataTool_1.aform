@@ -1,0 +1,137 @@
+<Form>
+<Form>
+<ID>75f2334e-4adf-4cff-9196-2a509bce02c0</ID>
+<Title>DataTool_1</Title>
+<TabPageName>DataTool_1</TabPageName>
+<AssemblyFile>LicensedAnimatGUI.dll</AssemblyFile>
+<ClassName>LicensedAnimatGUI.Forms.Charts.LineChart</ClassName>
+<AutoCollectInterval>True</AutoCollectInterval>
+<CollectDataInterval Value="0.6" Scale="milli" Actual="0.0006"/>
+<CollectTimeWindow Value="11" Scale="None" Actual="11"/>
+<UpdateDataInterval Value="200" Scale="milli" Actual="0.2"/>
+<SetStartEndTime>True</SetStartEndTime>
+<CollectStartTime Value="0" Scale="None" Actual="0"/>
+<CollectEndTime Value="10" Scale="None" Actual="10"/>
+<AxisList>
+<Axis>
+<AssemblyFile>LicensedAnimatGUI.dll</AssemblyFile>
+<ClassName>LicensedAnimatGUI.DataObjects.Charting.Pro2DAxis</ClassName>
+<Name>Hip Socket MT</Name>
+<WorkingAxis>1</WorkingAxis>
+<DataColumns>
+<DataColumn>
+<AssemblyFile>LicensedAnimatGUI.dll</AssemblyFile>
+<ClassName>LicensedAnimatGUI.DataObjects.Charting.Pro2DColumn</ClassName>
+<Name>Left PMA</Name>
+<ID>192ae948-db4d-40e5-af5c-2a969fbf51fe</ID>
+<DataItemAssemblyFile>AnimatGUI.dll</DataItemAssemblyFile>
+<DataItemClassName>AnimatGUI.DataObjects.Physical.Bodies.LinearHillMuscle</DataItemClassName>
+<StructureID>d52c22a3-93fc-4167-b147-765f3750718b</StructureID>
+<DataItemID>dc3958a9-1cd4-4458-b344-f916733ff1ec</DataItemID>
+<SelectedDataType>Tension</SelectedDataType>
+<DataSubSet>1</DataSubSet>
+<PrevDataSubset>1</PrevDataSubset>
+<UseIncomingDataType>False</UseIncomingDataType>
+<LineType>MediumSolid</LineType>
+<PointType>Plus</PointType>
+<PlotMethodType>Line</PlotMethodType>
+<LineColor>-16776961</LineColor>
+</DataColumn>
+<DataColumn>
+<AssemblyFile>LicensedAnimatGUI.dll</AssemblyFile>
+<ClassName>LicensedAnimatGUI.DataObjects.Charting.Pro2DColumn</ClassName>
+<Name>Left ILI</Name>
+<ID>8aa91053-9660-4cab-afe1-dd213fce9ebb</ID>
+<DataItemAssemblyFile>AnimatGUI.dll</DataItemAssemblyFile>
+<DataItemClassName>AnimatGUI.DataObjects.Physical.Bodies.LinearHillMuscle</DataItemClassName>
+<StructureID>d52c22a3-93fc-4167-b147-765f3750718b</StructureID>
+<DataItemID>a297b1c4-2337-4b8d-bba6-27e894e43288</DataItemID>
+<SelectedDataType>Tension</SelectedDataType>
+<DataSubSet>2</DataSubSet>
+<PrevDataSubset>2</PrevDataSubset>
+<UseIncomingDataType>False</UseIncomingDataType>
+<LineType>MediumSolid</LineType>
+<PointType>Plus</PointType>
+<PlotMethodType>Line</PlotMethodType>
+<LineColor>-16711936</LineColor>
+</DataColumn>
+</DataColumns>
+</Axis>
+<Axis>
+<AssemblyFile>LicensedAnimatGUI.dll</AssemblyFile>
+<ClassName>LicensedAnimatGUI.DataObjects.Charting.Pro2DAxis</ClassName>
+<Name>Length-Tension Percent</Name>
+<WorkingAxis>2</WorkingAxis>
+<DataColumns>
+<DataColumn>
+<AssemblyFile>LicensedAnimatGUI.dll</AssemblyFile>
+<ClassName>LicensedAnimatGUI.DataObjects.Charting.Pro2DColumn</ClassName>
+<Name>Left ILI</Name>
+<ID>29e42fb8-ab33-450a-87c8-e5256da9a49f</ID>
+<DataItemAssemblyFile>AnimatGUI.dll</DataItemAssemblyFile>
+<DataItemClassName>AnimatGUI.DataObjects.Physical.Bodies.LinearHillMuscle</DataItemClassName>
+<StructureID>d52c22a3-93fc-4167-b147-765f3750718b</StructureID>
+<DataItemID>a297b1c4-2337-4b8d-bba6-27e894e43288</DataItemID>
+<SelectedDataType>Tl</SelectedDataType>
+<DataSubSet>3</DataSubSet>
+<PrevDataSubset>3</PrevDataSubset>
+<UseIncomingDataType>False</UseIncomingDataType>
+<LineType>MediumSolid</LineType>
+<PointType>Plus</PointType>
+<PlotMethodType>Line</PlotMethodType>
+<LineColor>-23296</LineColor>
+</DataColumn>
+<DataColumn>
+<AssemblyFile>LicensedAnimatGUI.dll</AssemblyFile>
+<ClassName>LicensedAnimatGUI.DataObjects.Charting.Pro2DColumn</ClassName>
+<Name>Left PMA</Name>
+<ID>f90720a1-8e2c-4aaf-ab23-dbd046695a29</ID>
+<DataItemAssemblyFile>AnimatGUI.dll</DataItemAssemblyFile>
+<DataItemClassName>AnimatGUI.DataObjects.Physical.Bodies.LinearHillMuscle</DataItemClassName>
+<StructureID>d52c22a3-93fc-4167-b147-765f3750718b</StructureID>
+<DataItemID>dc3958a9-1cd4-4458-b344-f916733ff1ec</DataItemID>
+<SelectedDataType>Tl</SelectedDataType>
+<DataSubSet>4</DataSubSet>
+<PrevDataSubset>4</PrevDataSubset>
+<UseIncomingDataType>False</UseIncomingDataType>
+<LineType>MediumSolid</LineType>
+<PointType>Plus</PointType>
+<PlotMethodType>Line</PlotMethodType>
+<LineColor>-256</LineColor>
+</DataColumn>
+</DataColumns>
+</Axis>
+<Axis>
+<AssemblyFile>LicensedAnimatGUI.dll</AssemblyFile>
+<ClassName>LicensedAnimatGUI.DataObjects.Charting.Pro2DAxis</ClassName>
+<Name>LH_Rotation</Name>
+<WorkingAxis>0</WorkingAxis>
+<DataColumns>
+<DataColumn>
+<AssemblyFile>LicensedAnimatGUI.dll</AssemblyFile>
+<ClassName>LicensedAnimatGUI.DataObjects.Charting.Pro2DColumn</ClassName>
+<Name>Left Hip Socket</Name>
+<ID>fc4b7584-43cc-47ae-aeaf-f5e035672b62</ID>
+<DataItemAssemblyFile>AnimatGUI.dll</DataItemAssemblyFile>
+<DataItemClassName>AnimatGUI.DataObjects.Physical.Joints.Hinge</DataItemClassName>
+<StructureID>d52c22a3-93fc-4167-b147-765f3750718b</StructureID>
+<DataItemID>fa33b86d-2f47-43b5-91f0-0fd365a25422</DataItemID>
+<SelectedDataType>JointRotation</SelectedDataType>
+<DataSubSet>0</DataSubSet>
+<PrevDataSubset>0</PrevDataSubset>
+<UseIncomingDataType>False</UseIncomingDataType>
+<LineType>MediumSolid</LineType>
+<PointType>Plus</PointType>
+<PlotMethodType>Line</PlotMethodType>
+<LineColor>-65536</LineColor>
+</DataColumn>
+</DataColumns>
+</Axis>
+</AxisList>
+<SaveDataWhenClosed>False</SaveDataWhenClosed>
+<UpdateChartAtEnd>True</UpdateChartAtEnd>
+<PointsToKeep>18334</PointsToKeep>
+<YAxisOffset>0</YAxisOffset>
+<GraphConfig ByteCount="8971"/>
+</Form>
+</Form>
