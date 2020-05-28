@@ -502,7 +502,7 @@
 <Shininess>64</Shininess>
 <Texture/>
 <LocalPosition>
-<X Value="2.276" Scale="milli" Actual="0.002276"/>
+<X Value="1.922" Scale="milli" Actual="0.001922"/>
 <Y Value="-0.435" Scale="milli" Actual="-0.000435"/>
 <Z Value="-2.404" Scale="milli" Actual="-0.002404"/>
 </LocalPosition>
@@ -511,7 +511,7 @@
 <Y Value="0" Scale="None" Actual="0"/>
 <Z Value="0" Scale="None" Actual="0"/>
 </Rotation>
-<LocalMatrix>1,0,0,0,0,1,0,0,0,0,1,0,0.2276,-0.0435,-0.2404,1</LocalMatrix>
+<LocalMatrix>1,0,0,0,0,1,0,0,0,0,1,0,0.192182,-0.0435,-0.2404,1</LocalMatrix>
 <DraggerSize Value="-1" Scale="None" Actual="-1"/>
 <Type>Attachment</Type>
 <PartType>AnimatGUI.DataObjects.Physical.Bodies.Attachment</PartType>
@@ -574,14 +574,14 @@
 <LocalPosition>
 <X Value="-2.648" Scale="milli" Actual="-0.002648"/>
 <Y Value="0" Scale="None" Actual="0"/>
-<Z Value="-2.014" Scale="milli" Actual="-0.002014"/>
+<Z Value="-2.832" Scale="milli" Actual="-0.002832"/>
 </LocalPosition>
 <Rotation>
 <X Value="0" Scale="None" Actual="0"/>
 <Y Value="0" Scale="None" Actual="0"/>
 <Z Value="0" Scale="None" Actual="0"/>
 </Rotation>
-<LocalMatrix>1,0,0,0,0,1,0,0,0,0,1,0,-0.2648,0,-0.2014,1</LocalMatrix>
+<LocalMatrix>1,0,0,0,0,1,0,0,0,0,1,0,-0.2648,0,-0.283154,1</LocalMatrix>
 <DraggerSize Value="-1" Scale="None" Actual="-1"/>
 <Type>Attachment</Type>
 <PartType>AnimatGUI.DataObjects.Physical.Bodies.Attachment</PartType>
@@ -1019,8 +1019,8 @@
 <MaxHydroTorque Value="20" Scale="None" Actual="20"/>
 <Magnus>0</Magnus>
 <EnableFluids>False</EnableFluids>
-<Density Value="62.5" Scale="Kilo" Actual="62500"/>
-<Mass Value="1" Scale="Kilo" Actual="1000"/>
+<Density Value="0.625" Scale="Kilo" Actual="625"/>
+<Mass Value="0.01" Scale="Kilo" Actual="10"/>
 <COM>
 <X Value="0" Scale="None" Actual="0"/>
 <Y Value="0" Scale="None" Actual="0"/>
@@ -1186,16 +1186,16 @@
 <Shininess>64</Shininess>
 <Texture/>
 <LocalPosition>
-<X Value="-0.985" Scale="milli" Actual="-0.000985"/>
-<Y Value="0" Scale="None" Actual="0"/>
-<Z Value="1.046" Scale="milli" Actual="0.001046"/>
+<X Value="-2.088" Scale="milli" Actual="-0.002088"/>
+<Y Value="0.427" Scale="milli" Actual="0.000427"/>
+<Z Value="1.305" Scale="milli" Actual="0.001305"/>
 </LocalPosition>
 <Rotation>
 <X Value="0" Scale="None" Actual="0"/>
 <Y Value="0" Scale="None" Actual="0"/>
 <Z Value="0" Scale="None" Actual="0"/>
 </Rotation>
-<LocalMatrix>1,0,0,0,0,1,0,0,0,0,1,0,-0.0985,0,0.1046,1</LocalMatrix>
+<LocalMatrix>1,0,0,0,0,1,0,0,0,0,1,0,-0.208804,0.0427159,0.130503,1</LocalMatrix>
 <DraggerSize Value="-1" Scale="None" Actual="-1"/>
 <Type>Attachment</Type>
 <PartType>AnimatGUI.DataObjects.Physical.Bodies.Attachment</PartType>
@@ -1256,16 +1256,16 @@
 <Shininess>64</Shininess>
 <Texture/>
 <LocalPosition>
-<X Value="-0.278" Scale="milli" Actual="-0.000278"/>
-<Y Value="0" Scale="None" Actual="0"/>
-<Z Value="-2.205" Scale="milli" Actual="-0.002205"/>
+<X Value="-1.154" Scale="milli" Actual="-0.001154"/>
+<Y Value="0.107" Scale="milli" Actual="0.000107"/>
+<Z Value="-3.16" Scale="milli" Actual="-0.00316"/>
 </LocalPosition>
 <Rotation>
 <X Value="0" Scale="None" Actual="0"/>
 <Y Value="0" Scale="None" Actual="0"/>
 <Z Value="0" Scale="None" Actual="0"/>
 </Rotation>
-<LocalMatrix>1,0,0,0,0,1,0,0,0,0,1,0,-0.0278,0,-0.2205,1</LocalMatrix>
+<LocalMatrix>1,0,0,0,0,1,0,0,0,0,1,0,-0.115442,0.0107155,-0.316035,1</LocalMatrix>
 <DraggerSize Value="-1" Scale="None" Actual="-1"/>
 <Type>Attachment</Type>
 <PartType>AnimatGUI.DataObjects.Physical.Bodies.Attachment</PartType>
@@ -1335,8 +1335,8 @@
 <Shininess>64</Shininess>
 <Texture/>
 <LocalPosition>
-<X Value="-7.062" Scale="milli" Actual="-0.007062"/>
-<Y Value="0" Scale="None" Actual="0"/>
+<X Value="-7.914" Scale="milli" Actual="-0.007914"/>
+<Y Value="1.322" Scale="milli" Actual="0.001322"/>
 <Z Value="-3.203" Scale="milli" Actual="-0.003203"/>
 </LocalPosition>
 <Rotation>
@@ -1344,7 +1344,7 @@
 <Y Value="0" Scale="None" Actual="0"/>
 <Z Value="0" Scale="None" Actual="0"/>
 </Rotation>
-<LocalMatrix>1,0,0,0,0,1,0,0,0,0,1,0,-0.7062,0,-0.3203,1</LocalMatrix>
+<LocalMatrix>1,0,0,0,0,1,0,0,0,0,1,0,-0.791423,0.132163,-0.3203,1</LocalMatrix>
 <DraggerSize Value="-1" Scale="None" Actual="-1"/>
 <Type>Attachment</Type>
 <PartType>AnimatGUI.DataObjects.Physical.Bodies.Attachment</PartType>
@@ -1405,16 +1405,16 @@
 <Shininess>64</Shininess>
 <Texture/>
 <LocalPosition>
-<X Value="-5.82" Scale="milli" Actual="-0.00582"/>
+<X Value="-5.578" Scale="milli" Actual="-0.005578"/>
 <Y Value="0" Scale="None" Actual="0"/>
-<Z Value="1.58" Scale="milli" Actual="0.00158"/>
+<Z Value="2.265" Scale="milli" Actual="0.002265"/>
 </LocalPosition>
 <Rotation>
 <X Value="0" Scale="None" Actual="0"/>
 <Y Value="0" Scale="None" Actual="0"/>
 <Z Value="0" Scale="None" Actual="0"/>
 </Rotation>
-<LocalMatrix>1,0,0,0,0,1,0,0,0,0,1,0,-0.582,0,0.158,1</LocalMatrix>
+<LocalMatrix>1,0,0,0,0,1,0,0,0,0,1,0,-0.557818,0,0.226518,1</LocalMatrix>
 <DraggerSize Value="-1" Scale="None" Actual="-1"/>
 <Type>Attachment</Type>
 <PartType>AnimatGUI.DataObjects.Physical.Bodies.Attachment</PartType>
@@ -1621,16 +1621,16 @@
 <Shininess>64</Shininess>
 <Texture/>
 <LocalPosition>
-<X Value="0.43" Scale="milli" Actual="0.00043"/>
-<Y Value="0" Scale="None" Actual="0"/>
-<Z Value="1.638" Scale="milli" Actual="0.001638"/>
+<X Value="-0.662" Scale="milli" Actual="-0.000662"/>
+<Y Value="-0.988" Scale="milli" Actual="-0.000988"/>
+<Z Value="2.592" Scale="milli" Actual="0.002592"/>
 </LocalPosition>
 <Rotation>
 <X Value="0" Scale="None" Actual="0"/>
 <Y Value="0" Scale="None" Actual="0"/>
 <Z Value="0" Scale="None" Actual="0"/>
 </Rotation>
-<LocalMatrix>1,0,0,0,0,1,0,0,0,0,1,0,0.043,0,0.1638,1</LocalMatrix>
+<LocalMatrix>1,0,0,0,0,1,0,0,0,0,1,0,-0.0661658,-0.0987534,0.259228,1</LocalMatrix>
 <DraggerSize Value="-1" Scale="None" Actual="-1"/>
 <Type>Attachment</Type>
 <PartType>AnimatGUI.DataObjects.Physical.Bodies.Attachment</PartType>
@@ -1691,16 +1691,16 @@
 <Shininess>64</Shininess>
 <Texture/>
 <LocalPosition>
-<X Value="5.492" Scale="milli" Actual="0.005492"/>
+<X Value="6.118" Scale="milli" Actual="0.006118"/>
 <Y Value="0" Scale="None" Actual="0"/>
-<Z Value="-0.22" Scale="milli" Actual="-0.00022"/>
+<Z Value="2.164" Scale="milli" Actual="0.002164"/>
 </LocalPosition>
 <Rotation>
 <X Value="0" Scale="None" Actual="0"/>
 <Y Value="0" Scale="None" Actual="0"/>
 <Z Value="0" Scale="None" Actual="0"/>
 </Rotation>
-<LocalMatrix>1,0,0,0,0,1,0,0,0,0,1,0,0.5492,0,-0.022,1</LocalMatrix>
+<LocalMatrix>1,0,0,0,0,1,0,0,0,0,1,0,0.611833,0,0.216372,1</LocalMatrix>
 <DraggerSize Value="-1" Scale="None" Actual="-1"/>
 <Type>Attachment</Type>
 <PartType>AnimatGUI.DataObjects.Physical.Bodies.Attachment</PartType>
@@ -1904,8 +1904,8 @@
 <Shininess>64</Shininess>
 <Texture/>
 <LocalPosition>
-<X Value="6.87" Scale="milli" Actual="0.00687"/>
-<Y Value="0.446" Scale="milli" Actual="0.000446"/>
+<X Value="10.566" Scale="milli" Actual="0.010566"/>
+<Y Value="1.319" Scale="milli" Actual="0.001319"/>
 <Z Value="-0.31" Scale="milli" Actual="-0.00031"/>
 </LocalPosition>
 <Rotation>
@@ -1913,7 +1913,7 @@
 <Y Value="0" Scale="None" Actual="0"/>
 <Z Value="0" Scale="None" Actual="0"/>
 </Rotation>
-<LocalMatrix>1,0,0,0,0,1,0,0,0,0,1,0,0.687,0.0446,-0.031,1</LocalMatrix>
+<LocalMatrix>1,0,0,0,0,1,0,0,0,0,1,0,1.05663,0.131917,-0.031,1</LocalMatrix>
 <DraggerSize Value="-1" Scale="None" Actual="-1"/>
 <Type>Attachment</Type>
 <PartType>AnimatGUI.DataObjects.Physical.Bodies.Attachment</PartType>
@@ -1974,16 +1974,16 @@
 <Shininess>64</Shininess>
 <Texture/>
 <LocalPosition>
-<X Value="-7.176" Scale="milli" Actual="-0.007176"/>
-<Y Value="-3.858" Scale="milli" Actual="-0.003858"/>
-<Z Value="-1.456" Scale="milli" Actual="-0.001456"/>
+<X Value="-8.06" Scale="milli" Actual="-0.00806"/>
+<Y Value="-5.279" Scale="milli" Actual="-0.005279"/>
+<Z Value="-1.674" Scale="milli" Actual="-0.001674"/>
 </LocalPosition>
 <Rotation>
 <X Value="0" Scale="None" Actual="0"/>
 <Y Value="0" Scale="None" Actual="0"/>
 <Z Value="0" Scale="None" Actual="0"/>
 </Rotation>
-<LocalMatrix>1,0,0,0,0,1,0,0,0,0,1,0,-0.7176,-0.3858,-0.1456,1</LocalMatrix>
+<LocalMatrix>1,0,0,0,0,1,0,0,0,0,1,0,-0.805976,-0.527856,-0.167375,1</LocalMatrix>
 <DraggerSize Value="-1" Scale="None" Actual="-1"/>
 <Type>Attachment</Type>
 <PartType>AnimatGUI.DataObjects.Physical.Bodies.Attachment</PartType>
@@ -2117,8 +2117,8 @@
 <Shininess>64</Shininess>
 <Texture/>
 <LocalPosition>
-<X Value="-8.131" Scale="milli" Actual="-0.008131"/>
-<Y Value="-2.633" Scale="milli" Actual="-0.002633"/>
+<X Value="-9.193" Scale="milli" Actual="-0.009193"/>
+<Y Value="-3.574" Scale="milli" Actual="-0.003574"/>
 <Z Value="-1.644" Scale="milli" Actual="-0.001644"/>
 </LocalPosition>
 <Rotation>
@@ -2126,7 +2126,7 @@
 <Y Value="0" Scale="None" Actual="0"/>
 <Z Value="0" Scale="None" Actual="0"/>
 </Rotation>
-<LocalMatrix>1,0,0,0,0,1,0,0,0,0,1,0,-0.8131,-0.2633,-0.1644,1</LocalMatrix>
+<LocalMatrix>1,0,0,0,0,1,0,0,0,0,1,0,-0.919315,-0.357416,-0.1644,1</LocalMatrix>
 <DraggerSize Value="-1" Scale="None" Actual="-1"/>
 <Type>Attachment</Type>
 <PartType>AnimatGUI.DataObjects.Physical.Bodies.Attachment</PartType>
@@ -2392,16 +2392,16 @@
 <Shininess>64</Shininess>
 <Texture/>
 <LocalPosition>
-<X Value="4.456" Scale="milli" Actual="0.004456"/>
+<X Value="4.761" Scale="milli" Actual="0.004761"/>
 <Y Value="-0.143" Scale="milli" Actual="-0.000143"/>
-<Z Value="-4.884" Scale="milli" Actual="-0.004884"/>
+<Z Value="-4.739" Scale="milli" Actual="-0.004739"/>
 </LocalPosition>
 <Rotation>
 <X Value="0" Scale="None" Actual="0"/>
-<Y Value="79.103" Scale="None" Actual="79.103"/>
+<Y Value="79.125" Scale="None" Actual="79.125"/>
 <Z Value="0" Scale="None" Actual="0"/>
 </Rotation>
-<LocalMatrix>-0.000105386,-0.967915,-0.251278,0,1,-0.000149027,0.000154646,0,-0.000187131,-0.251278,0.967915,0,0.950576,-0.944113,0.522727,1</LocalMatrix>
+<LocalMatrix>-0.000105386,-0.967915,-0.251278,0,1,-0.000149027,0.000154646,0,-0.000187131,-0.251278,0.967915,0,0.950576,-0.944113,0.556525,1</LocalMatrix>
 <DraggerSize Value="-1" Scale="None" Actual="-1"/>
 <Type>Box</Type>
 <PartType>AnimatGUI.DataObjects.Physical.Bodies.Box</PartType>
@@ -2466,7 +2466,7 @@
 <Y Value="0" Scale="None" Actual="0"/>
 <Z Value="95.128" Scale="None" Actual="95.128"/>
 </Rotation>
-<LocalMatrix>-0.0168067,0.996024,0.0874856,0,-0.187909,-0.0890854,0.978138,0,0.982043,-2.71051e-020,0.188659,0,0.405344,-0.0065236,-0.025482,1</LocalMatrix>
+<LocalMatrix>-0.0168068,0.996024,0.0874856,0,-0.187909,-0.0890854,0.978138,0,0.982043,0,0.188659,0,0.435867,-0.00651837,-0.0109702,1</LocalMatrix>
 <DraggerSize Value="-1" Scale="None" Actual="-1"/>
 <Type>Hinge</Type>
 <PartType>AnimatGUI.DataObjects.Physical.Joints.Hinge</PartType>
@@ -2664,16 +2664,16 @@
 <Shininess>64</Shininess>
 <Texture/>
 <LocalPosition>
-<X Value="-6.17" Scale="milli" Actual="-0.00617"/>
+<X Value="-6.275" Scale="milli" Actual="-0.006275"/>
 <Y Value="0" Scale="None" Actual="0"/>
-<Z Value="1.742" Scale="milli" Actual="0.001742"/>
+<Z Value="3.068" Scale="milli" Actual="0.003068"/>
 </LocalPosition>
 <Rotation>
 <X Value="0" Scale="None" Actual="0"/>
 <Y Value="0" Scale="None" Actual="0"/>
 <Z Value="0" Scale="None" Actual="0"/>
 </Rotation>
-<LocalMatrix>1,0,0,0,0,1,0,0,0,0,1,0,-0.617,0,0.1742,1</LocalMatrix>
+<LocalMatrix>1,0,0,0,0,1,0,0,0,0,1,0,-0.627539,0,0.306784,1</LocalMatrix>
 <DraggerSize Value="-1" Scale="None" Actual="-1"/>
 <Type>Attachment</Type>
 <PartType>AnimatGUI.DataObjects.Physical.Bodies.Attachment</PartType>
@@ -2734,16 +2734,16 @@
 <Shininess>64</Shininess>
 <Texture/>
 <LocalPosition>
-<X Value="-5.591" Scale="milli" Actual="-0.005591"/>
+<X Value="-7.482" Scale="milli" Actual="-0.007482"/>
 <Y Value="0" Scale="None" Actual="0"/>
-<Z Value="1.542" Scale="milli" Actual="0.001542"/>
+<Z Value="2.268" Scale="milli" Actual="0.002268"/>
 </LocalPosition>
 <Rotation>
 <X Value="0" Scale="None" Actual="0"/>
 <Y Value="0" Scale="None" Actual="0"/>
 <Z Value="0" Scale="None" Actual="0"/>
 </Rotation>
-<LocalMatrix>1,0,0,0,0,1,0,0,0,0,1,0,-0.5591,0,0.1542,1</LocalMatrix>
+<LocalMatrix>1,0,0,0,0,1,0,0,0,0,1,0,-0.748221,0,0.226803,1</LocalMatrix>
 <DraggerSize Value="-1" Scale="None" Actual="-1"/>
 <Type>Attachment</Type>
 <PartType>AnimatGUI.DataObjects.Physical.Bodies.Attachment</PartType>
@@ -2813,7 +2813,7 @@
 <Y Value="0" Scale="None" Actual="0"/>
 <Z Value="0" Scale="None" Actual="0"/>
 </Rotation>
-<LocalMatrix>-0.000105386,-0.967915,-0.251278,0,1,-0.000149027,0.000154646,0,-0.000187131,-0.251278,0.967915,0,0.969605,-1.51145,0.433303,1</LocalMatrix>
+<LocalMatrix>-0.000105386,-0.967915,-0.251278,0,1,-0.000149027,0.000154646,0,-0.000187131,-0.251278,0.967915,0,0.969605,-1.51145,0.467101,1</LocalMatrix>
 <DraggerSize Value="-1" Scale="None" Actual="-1"/>
 <Type>Box</Type>
 <PartType>AnimatGUI.DataObjects.Physical.Bodies.Box</PartType>
@@ -2878,7 +2878,7 @@
 <Y Value="0" Scale="None" Actual="0"/>
 <Z Value="90.938" Scale="None" Actual="90.938"/>
 </Rotation>
-<LocalMatrix>-0.016203,0.999869,0,0,-0.999869,-0.016203,0,0,-2.77556e-017,0,1,0,0.5136,0.0206316,0.0013,1</LocalMatrix>
+<LocalMatrix>-0.016203,0.999869,-8.67362e-019,0,-0.999869,-0.016203,-2.77556e-017,0,2.77556e-017,-2.71051e-020,1,0,0.5136,0.0206316,0.0013,1</LocalMatrix>
 <DraggerSize Value="-1" Scale="None" Actual="-1"/>
 <Type>Hinge</Type>
 <PartType>AnimatGUI.DataObjects.Physical.Joints.Hinge</PartType>
@@ -3081,14 +3081,14 @@
 <LocalPosition>
 <X Value="-1.558" Scale="milli" Actual="-0.001558"/>
 <Y Value="0" Scale="None" Actual="0"/>
-<Z Value="1.07" Scale="milli" Actual="0.00107"/>
+<Z Value="2.233" Scale="milli" Actual="0.002233"/>
 </LocalPosition>
 <Rotation>
 <X Value="0" Scale="None" Actual="0"/>
 <Y Value="0" Scale="None" Actual="0"/>
 <Z Value="0" Scale="None" Actual="0"/>
 </Rotation>
-<LocalMatrix>1,0,0,0,0,1,0,0,0,0,1,0,-0.1558,0,0.107,1</LocalMatrix>
+<LocalMatrix>1,0,0,0,0,1,0,0,0,0,1,0,-0.1558,0,0.223316,1</LocalMatrix>
 <DraggerSize Value="-1" Scale="None" Actual="-1"/>
 <Type>Attachment</Type>
 <PartType>AnimatGUI.DataObjects.Physical.Bodies.Attachment</PartType>
@@ -3158,7 +3158,7 @@
 <Shininess>64</Shininess>
 <Texture/>
 <LocalPosition>
-<X Value="-3.411" Scale="milli" Actual="-0.003411"/>
+<X Value="-2.53" Scale="milli" Actual="-0.00253"/>
 <Y Value="0" Scale="None" Actual="0"/>
 <Z Value="-2.221" Scale="milli" Actual="-0.002221"/>
 </LocalPosition>
@@ -3167,7 +3167,7 @@
 <Y Value="0" Scale="None" Actual="0"/>
 <Z Value="0" Scale="None" Actual="0"/>
 </Rotation>
-<LocalMatrix>1,0,0,0,0,1,0,0,0,0,1,0,-0.3411,0,-0.2221,1</LocalMatrix>
+<LocalMatrix>1,0,0,0,0,1,0,0,0,0,1,0,-0.252976,0,-0.2221,1</LocalMatrix>
 <DraggerSize Value="-1" Scale="None" Actual="-1"/>
 <Type>Attachment</Type>
 <PartType>AnimatGUI.DataObjects.Physical.Bodies.Attachment</PartType>
@@ -3304,16 +3304,16 @@
 <Shininess>64</Shininess>
 <Texture/>
 <LocalPosition>
-<X Value="1.215" Scale="milli" Actual="0.001215"/>
+<X Value="0.608" Scale="milli" Actual="0.000608"/>
 <Y Value="-1.649" Scale="milli" Actual="-0.001649"/>
-<Z Value="1.362" Scale="milli" Actual="0.001362"/>
+<Z Value="2.082" Scale="milli" Actual="0.002082"/>
 </LocalPosition>
 <Rotation>
 <X Value="0" Scale="None" Actual="0"/>
 <Y Value="0" Scale="None" Actual="0"/>
 <Z Value="0" Scale="None" Actual="0"/>
 </Rotation>
-<LocalMatrix>1,0,0,0,0,1,0,0,0,0,1,0,0.1215,-0.1649,0.1362,1</LocalMatrix>
+<LocalMatrix>1,0,0,0,0,1,0,0,0,0,1,0,0.0607941,-0.1649,0.208213,1</LocalMatrix>
 <DraggerSize Value="-1" Scale="None" Actual="-1"/>
 <Type>Attachment</Type>
 <PartType>AnimatGUI.DataObjects.Physical.Bodies.Attachment</PartType>
@@ -3374,16 +3374,16 @@
 <Shininess>64</Shininess>
 <Texture/>
 <LocalPosition>
-<X Value="2.551" Scale="milli" Actual="0.002551"/>
-<Y Value="0" Scale="None" Actual="0"/>
-<Z Value="-2.115" Scale="milli" Actual="-0.002115"/>
+<X Value="0.897" Scale="milli" Actual="0.000897"/>
+<Y Value="-0.593" Scale="milli" Actual="-0.000593"/>
+<Z Value="-2.83" Scale="milli" Actual="-0.00283"/>
 </LocalPosition>
 <Rotation>
 <X Value="0" Scale="None" Actual="0"/>
 <Y Value="0" Scale="None" Actual="0"/>
 <Z Value="0" Scale="None" Actual="0"/>
 </Rotation>
-<LocalMatrix>1,0,0,0,0,1,0,0,0,0,1,0,0.2551,0,-0.2115,1</LocalMatrix>
+<LocalMatrix>1,0,0,0,0,1,0,0,0,0,1,0,0.0896588,-0.0593028,-0.283038,1</LocalMatrix>
 <DraggerSize Value="-1" Scale="None" Actual="-1"/>
 <Type>Attachment</Type>
 <PartType>AnimatGUI.DataObjects.Physical.Bodies.Attachment</PartType>
@@ -3445,15 +3445,15 @@
 <Texture/>
 <LocalPosition>
 <X Value="-2.15" Scale="milli" Actual="-0.00215"/>
-<Y Value="0" Scale="None" Actual="0"/>
-<Z Value="-1.564" Scale="milli" Actual="-0.001564"/>
+<Y Value="-0.226" Scale="milli" Actual="-0.000226"/>
+<Z Value="-2.608" Scale="milli" Actual="-0.002608"/>
 </LocalPosition>
 <Rotation>
 <X Value="0" Scale="None" Actual="0"/>
 <Y Value="0" Scale="None" Actual="0"/>
 <Z Value="0" Scale="None" Actual="0"/>
 </Rotation>
-<LocalMatrix>1,0,0,0,0,1,0,0,0,0,1,0,-0.215,0,-0.1564,1</LocalMatrix>
+<LocalMatrix>1,0,0,0,0,1,0,0,0,0,1,0,-0.215,-0.0226258,-0.260833,1</LocalMatrix>
 <DraggerSize Value="-1" Scale="None" Actual="-1"/>
 <Type>Attachment</Type>
 <PartType>AnimatGUI.DataObjects.Physical.Bodies.Attachment</PartType>
@@ -3581,16 +3581,16 @@
 <Shininess>64</Shininess>
 <Texture/>
 <LocalPosition>
-<X Value="0.59" Scale="milli" Actual="0.00059"/>
-<Y Value="-30.415" Scale="micro" Actual="-3.0415e-005"/>
-<Z Value="2.035" Scale="milli" Actual="0.002035"/>
+<X Value="-76.594" Scale="micro" Actual="-7.6594e-005"/>
+<Y Value="1.067" Scale="milli" Actual="0.001067"/>
+<Z Value="2.519" Scale="milli" Actual="0.002519"/>
 </LocalPosition>
 <Rotation>
 <X Value="0" Scale="None" Actual="0"/>
 <Y Value="0" Scale="None" Actual="0"/>
 <Z Value="0" Scale="None" Actual="0"/>
 </Rotation>
-<LocalMatrix>1,0,0,0,0,1,0,0,0,0,1,0,0.059,-0.0030415,0.2035,1</LocalMatrix>
+<LocalMatrix>1,0,0,0,0,1,0,0,0,0,1,0,-0.00765943,0.106706,0.25186,1</LocalMatrix>
 <DraggerSize Value="-1" Scale="None" Actual="-1"/>
 <Type>Attachment</Type>
 <PartType>AnimatGUI.DataObjects.Physical.Bodies.Attachment</PartType>
@@ -3727,16 +3727,16 @@
 <Shininess>64</Shininess>
 <Texture/>
 <LocalPosition>
-<X Value="-6.735" Scale="milli" Actual="-0.006735"/>
-<Y Value="-1.602" Scale="milli" Actual="-0.001602"/>
-<Z Value="-1.533" Scale="milli" Actual="-0.001533"/>
+<X Value="-10.209" Scale="milli" Actual="-0.010209"/>
+<Y Value="0.376" Scale="milli" Actual="0.000376"/>
+<Z Value="0.28" Scale="milli" Actual="0.00028"/>
 </LocalPosition>
 <Rotation>
 <X Value="0" Scale="None" Actual="0"/>
 <Y Value="0" Scale="None" Actual="0"/>
 <Z Value="0" Scale="None" Actual="0"/>
 </Rotation>
-<LocalMatrix>1,0,0,0,0,1,0,0,0,0,1,0,-0.6735,-0.1602,-0.1533,1</LocalMatrix>
+<LocalMatrix>1,0,0,0,0,1,0,0,0,0,1,0,-1.02087,0.0376119,0.0280014,1</LocalMatrix>
 <DraggerSize Value="-1" Scale="None" Actual="-1"/>
 <Type>Attachment</Type>
 <PartType>AnimatGUI.DataObjects.Physical.Bodies.Attachment</PartType>
@@ -3797,16 +3797,16 @@
 <Shininess>64</Shininess>
 <Texture/>
 <LocalPosition>
-<X Value="8.05" Scale="milli" Actual="0.00805"/>
+<X Value="10.287" Scale="milli" Actual="0.010287"/>
 <Y Value="-2.549" Scale="milli" Actual="-0.002549"/>
-<Z Value="-2.203" Scale="milli" Actual="-0.002203"/>
+<Z Value="-3.199" Scale="milli" Actual="-0.003199"/>
 </LocalPosition>
 <Rotation>
 <X Value="0" Scale="None" Actual="0"/>
 <Y Value="0" Scale="None" Actual="0"/>
 <Z Value="0" Scale="None" Actual="0"/>
 </Rotation>
-<LocalMatrix>1,0,0,0,0,1,0,0,0,0,1,0,0.805,-0.2549,-0.2203,1</LocalMatrix>
+<LocalMatrix>1,0,0,0,0,1,0,0,0,0,1,0,1.02872,-0.2549,-0.319943,1</LocalMatrix>
 <DraggerSize Value="-1" Scale="None" Actual="-1"/>
 <Type>Attachment</Type>
 <PartType>AnimatGUI.DataObjects.Physical.Bodies.Attachment</PartType>
@@ -3934,8 +3934,8 @@
 <Shininess>64</Shininess>
 <Texture/>
 <LocalPosition>
-<X Value="7.303" Scale="milli" Actual="0.007303"/>
-<Y Value="-3.711" Scale="milli" Actual="-0.003711"/>
+<X Value="9.509" Scale="milli" Actual="0.009509"/>
+<Y Value="-4.223" Scale="milli" Actual="-0.004223"/>
 <Z Value="-2.46" Scale="milli" Actual="-0.00246"/>
 </LocalPosition>
 <Rotation>
@@ -3943,7 +3943,7 @@
 <Y Value="0" Scale="None" Actual="0"/>
 <Z Value="0" Scale="None" Actual="0"/>
 </Rotation>
-<LocalMatrix>1,0,0,0,0,1,0,0,0,0,1,0,0.7303,-0.3711,-0.246,1</LocalMatrix>
+<LocalMatrix>1,0,0,0,0,1,0,0,0,0,1,0,0.950935,-0.422315,-0.246,1</LocalMatrix>
 <DraggerSize Value="-1" Scale="None" Actual="-1"/>
 <Type>Attachment</Type>
 <PartType>AnimatGUI.DataObjects.Physical.Bodies.Attachment</PartType>
@@ -4863,7 +4863,7 @@
 <ImagePosition>RelativeToText</ImagePosition>
 <InLinkable>True</InLinkable>
 <LabelEdit>True</LabelEdit>
-<Location x="883" y="76.625"/>
+<Location x="952.75" y="118.625"/>
 <OutLinkable>True</OutLinkable>
 <ShadowStyle>None</ShadowStyle>
 <ShadowColor>-16777216</ShadowColor>
@@ -5448,7 +5448,7 @@
 <ImagePosition>RelativeToText</ImagePosition>
 <InLinkable>True</InLinkable>
 <LabelEdit>True</LabelEdit>
-<Location x="608.625" y="286.75"/>
+<Location x="613.875" y="341.5"/>
 <OutLinkable>True</OutLinkable>
 <ShadowStyle>None</ShadowStyle>
 <ShadowColor>-16777216</ShadowColor>
@@ -6825,7 +6825,7 @@
 <ImagePosition>RelativeToText</ImagePosition>
 <InLinkable>True</InLinkable>
 <LabelEdit>True</LabelEdit>
-<Location x="874.75" y="359.75"/>
+<Location x="871" y="384.5"/>
 <OutLinkable>True</OutLinkable>
 <ShadowStyle>None</ShadowStyle>
 <ShadowColor>-16777216</ShadowColor>
@@ -8970,11 +8970,11 @@
 </Environment>
 <ToolViewers>
 <ToolHolder>
-<ID>ffcbf51e-b60a-46af-8fa4-96af2fe72d6b</ID>
-<Name>Left Leg Tension and Rotation</Name>
+<ID>46929a6e-c484-40b2-8567-0ef0da9e240c</ID>
+<Name>Right Leg MotoNeurons</Name>
 <BaseAssemblyFile>LicensedAnimatGUI.dll</BaseAssemblyFile>
 <BaseClassName>LicensedAnimatGUI.Forms.Charts.LineChart</BaseClassName>
-<ToolFormID>75f2334e-4adf-4cff-9196-2a509bce02c0</ToolFormID>
+<ToolFormID>5435a342-8364-447b-bf2f-f9855dddb485</ToolFormID>
 </ToolHolder>
 <ToolHolder>
 <ID>9df0ac63-621a-44df-91d5-a2e88c9ae2a6</ID>
@@ -8982,6 +8982,13 @@
 <BaseAssemblyFile>LicensedAnimatGUI.dll</BaseAssemblyFile>
 <BaseClassName>LicensedAnimatGUI.Forms.Charts.LineChart</BaseClassName>
 <ToolFormID>96659069-eb76-46de-8ec7-4759f4a7c3d6</ToolFormID>
+</ToolHolder>
+<ToolHolder>
+<ID>ffcbf51e-b60a-46af-8fa4-96af2fe72d6b</ID>
+<Name>Left Leg Tension and Rotation</Name>
+<BaseAssemblyFile>LicensedAnimatGUI.dll</BaseAssemblyFile>
+<BaseClassName>LicensedAnimatGUI.Forms.Charts.LineChart</BaseClassName>
+<ToolFormID>75f2334e-4adf-4cff-9196-2a509bce02c0</ToolFormID>
 </ToolHolder>
 </ToolViewers>
 <Stimuli>
@@ -9347,7 +9354,7 @@
 <DockingConfig>&lt;?xml version="1.0" encoding="us-ascii"?&gt;
 &lt;!-- DotNetMagic, The User Interface library for .NET (www.crownwood.net) --&gt;
 &lt;!-- Modifying this generated file will probably render it invalid --&gt;
-&lt;DockingConfig FormatVersion="10" InsideFill="False" InnerMinimum="20, 20" SavedAt="05/28/2020 14:05:33"&gt;
+&lt;DockingConfig FormatVersion="10" InsideFill="False" InnerMinimum="20, 20" SavedAt="05/28/2020 14:52:05"&gt;
   &lt;Content Name="Errors" Visible="True" Docked="True" AutoHidden="False" CaptionBar="True" CloseButton="False" DisplaySize="150, 125" DisplayLocation="150, 150" AutoHideSize="150, 125" FloatingSize="150, 150" FullTitle="Errors" Office2003BackColor="Base" UniqueName="" Office2007BackColor="Base" MediaPlayerBackColor="Base"&gt;
     &lt;DefaultRestore Type="Crownwood.DotNetMagic.Docking.RestoreContentState"&gt;
       &lt;Content Name="Errors" UniqueName="" /&gt;
@@ -9495,7 +9502,7 @@
       &lt;Child Type="null" /&gt;
     &lt;/FloatingRestore&gt;
   &lt;/Content&gt;
-  &lt;Content Name="Properties" Visible="True" Docked="True" AutoHidden="False" CaptionBar="True" CloseButton="False" DisplaySize="381, 150" DisplayLocation="150, 150" AutoHideSize="200, 150" FloatingSize="150, 150" FullTitle="Properties" Office2003BackColor="Base" UniqueName="" Office2007BackColor="Base" MediaPlayerBackColor="Base"&gt;
+  &lt;Content Name="Properties" Visible="True" Docked="True" AutoHidden="False" CaptionBar="True" CloseButton="False" DisplaySize="332, 150" DisplayLocation="150, 150" AutoHideSize="200, 150" FloatingSize="150, 150" FullTitle="Properties" Office2003BackColor="Base" UniqueName="" Office2007BackColor="Base" MediaPlayerBackColor="Base"&gt;
     &lt;DefaultRestore Type="Crownwood.DotNetMagic.Docking.RestoreContentState"&gt;
       &lt;Content Name="Properties" UniqueName="" /&gt;
       &lt;State Value="DockLeft" /&gt;
@@ -9509,7 +9516,7 @@
     &lt;DockingRestore Type="Crownwood.DotNetMagic.Docking.RestoreContentDockingAffinity"&gt;
       &lt;Content Name="Properties" UniqueName="" /&gt;
       &lt;State Value="DockRight" /&gt;
-      &lt;Position Size="381, 150" Location="150, 150" /&gt;
+      &lt;Position Size="332, 150" Location="150, 150" /&gt;
       &lt;Best Count="1"&gt;
         &lt;Item Name="Properties" /&gt;
       &lt;/Best&gt;
@@ -9785,8 +9792,8 @@
 &lt;TabbedGroups FormatVersion="1" ActiveLeaf="5"&gt;
   &lt;CustomGlobalData /&gt;
   &lt;Sequence Count="1" Unique="0" Space="100" Direction="Horizontal"&gt;
-    &lt;Leaf Count="4" Unique="5" Space="100"&gt;
-      &lt;Page Title="Organism_1 Body" ImageList="True" ImageIndex="0" Selected="False" Control="null" UniqueName=""&gt;
+    &lt;Leaf Count="5" Unique="5" Space="100"&gt;
+      &lt;Page Title="Organism_1 Body" ImageList="True" ImageIndex="0" Selected="True" Control="null" UniqueName=""&gt;
         &lt;CustomPageData&gt;&lt;![CDATA[&lt;TabPage&gt;
 &lt;Form&gt;
 &lt;ID&gt;48b397a5-42e4-489c-808f-1ba66bb6bbfb&lt;/ID&gt;
@@ -9828,7 +9835,7 @@
 &lt;/TabPage&gt;
 ]]&gt;&lt;/CustomPageData&gt;
       &lt;/Page&gt;
-      &lt;Page Title="Left Leg MotoNeurons" ImageList="True" ImageIndex="2" Selected="True" Control="null" UniqueName=""&gt;
+      &lt;Page Title="Left Leg MotoNeurons" ImageList="True" ImageIndex="2" Selected="False" Control="null" UniqueName=""&gt;
         &lt;CustomPageData&gt;&lt;![CDATA[&lt;TabPage&gt;
 &lt;Form&gt;
 &lt;ID&gt;96659069-eb76-46de-8ec7-4759f4a7c3d6&lt;/ID&gt;
@@ -9837,6 +9844,19 @@
 &lt;AssemblyFile&gt;LicensedAnimatGUI.dll&lt;/AssemblyFile&gt;
 &lt;ClassName&gt;LicensedAnimatGUI.Forms.Charts.LineChart&lt;/ClassName&gt;
 &lt;ExternalFile&gt;Left_Leg_MotoNeurons.aform&lt;/ExternalFile&gt;
+&lt;/Form&gt;
+&lt;/TabPage&gt;
+]]&gt;&lt;/CustomPageData&gt;
+      &lt;/Page&gt;
+      &lt;Page Title="LineChart" ImageList="True" ImageIndex="2" Selected="False" Control="null" UniqueName=""&gt;
+        &lt;CustomPageData&gt;&lt;![CDATA[&lt;TabPage&gt;
+&lt;Form&gt;
+&lt;ID&gt;5435a342-8364-447b-bf2f-f9855dddb485&lt;/ID&gt;
+&lt;Title&gt;LineChart&lt;/Title&gt;
+&lt;TabPageName&gt;LineChart&lt;/TabPageName&gt;
+&lt;AssemblyFile&gt;LicensedAnimatGUI.dll&lt;/AssemblyFile&gt;
+&lt;ClassName&gt;LicensedAnimatGUI.Forms.Charts.LineChart&lt;/ClassName&gt;
+&lt;ExternalFile&gt;LineChart.aform&lt;/ExternalFile&gt;
 &lt;/Form&gt;
 &lt;/TabPage&gt;
 ]]&gt;&lt;/CustomPageData&gt;
