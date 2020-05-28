@@ -6,7 +6,7 @@
 <Physics>Bullet</Physics>
 <LibraryVersion>Double</LibraryVersion>
 <Simulation>
-<ProjectPath>C:\Mouse_test_new\LBMouseModel_1_LearnAnimatlab\LBMouseModel_2_LearnAnimatlab_WithCPG\</ProjectPath>
+<ProjectPath>C:\Mouse_test_new\LBMouseModel_2_LearnAnimatlab_WithCPG\</ProjectPath>
 <AnimatModule>BulletAnimatSim_VC10_double.dll</AnimatModule>
 <UpdateDataInterval>250</UpdateDataInterval>
 <StartPaused>False</StartPaused>
@@ -284,7 +284,7 @@
 <Relaxation5>
 <AssemblyFile>AnimatGUI.dll</AssemblyFile>
 <ClassName>AnimatGUI.DataObjects.Physical.ConstraintRelaxationBullet</ClassName>
-<ID>a60889c0-10a3-47f1-ac6e-0eaa61fe2394</ID>
+<ID>7af1bbdb-3b11-45c9-8504-b4e10b16cda7</ID>
 <Enabled>False</Enabled>
 <CoordinateID>4</CoordinateID>
 <Stiffness Value="100" Scale="Kilo" Actual="100000"/>
@@ -293,7 +293,7 @@
 <Relaxation6>
 <AssemblyFile>AnimatGUI.dll</AssemblyFile>
 <ClassName>AnimatGUI.DataObjects.Physical.ConstraintRelaxationBullet</ClassName>
-<ID>ebf85bb4-afe3-47b2-b62e-bb190c8b66a6</ID>
+<ID>35d14d96-c60b-4326-81c6-71d47f5bb6cb</ID>
 <Enabled>False</Enabled>
 <CoordinateID>5</CoordinateID>
 <Stiffness Value="100" Scale="Kilo" Actual="100000"/>
@@ -1049,7 +1049,7 @@
 <Relaxation5>
 <AssemblyFile>AnimatGUI.dll</AssemblyFile>
 <ClassName>AnimatGUI.DataObjects.Physical.ConstraintRelaxationBullet</ClassName>
-<ID>8656f6a1-75be-4531-ac1e-c7792edd59dd</ID>
+<ID>ebeaf01d-bcd1-4289-90d9-8f2d143b7b4a</ID>
 <Enabled>False</Enabled>
 <CoordinateID>4</CoordinateID>
 <Stiffness Value="100" Scale="Kilo" Actual="100000"/>
@@ -1058,7 +1058,7 @@
 <Relaxation6>
 <AssemblyFile>AnimatGUI.dll</AssemblyFile>
 <ClassName>AnimatGUI.DataObjects.Physical.ConstraintRelaxationBullet</ClassName>
-<ID>e591f4bb-907c-47f5-b8af-7598bd68ef36</ID>
+<ID>3956497e-96e8-414a-a843-aac7cac39aa1</ID>
 <Enabled>False</Enabled>
 <CoordinateID>5</CoordinateID>
 <Stiffness Value="100" Scale="Kilo" Actual="100000"/>
@@ -2325,7 +2325,7 @@
 <ImagePosition>RelativeToText</ImagePosition>
 <InLinkable>True</InLinkable>
 <LabelEdit>True</LabelEdit>
-<Location x="422.188" y="288.438"/>
+<Location x="445.438" y="375.438"/>
 <OutLinkable>True</OutLinkable>
 <ShadowStyle>None</ShadowStyle>
 <ShadowColor>-16777216</ShadowColor>
@@ -2432,12 +2432,12 @@
 <TemplateNodeCount>1</TemplateNodeCount>
 <TemplateChangeScript/>
 <InLinks>
-<ID>f6f7bb18-d599-4b1a-9dcd-90ed7885fcab</ID>
+<ID>2ad95129-10aa-4614-8eb0-2d0e73832b9a</ID>
 </InLinks>
 <OutLinks>
-<ID>2cf93330-9eb4-4081-ba0d-e7f404062079</ID>
-<ID>e0756723-3934-4de5-b050-457904bdfc09</ID>
 <ID>1e0225aa-ceaa-4b82-8e98-870c3881ef54</ID>
+<ID>e0756723-3934-4de5-b050-457904bdfc09</ID>
+<ID>2cf93330-9eb4-4081-ba0d-e7f404062079</ID>
 </OutLinks>
 <Enabled>True</Enabled>
 <RestingPotential Value="-60" Scale="milli" Actual="-0.06"/>
@@ -2769,7 +2769,7 @@
 <OutLinks>
 <ID>e17de387-6fc4-4826-a7bc-8a00a3aadc7e</ID>
 <ID>1f4a699d-1369-4969-8806-9d4a6aa79ed6</ID>
-<ID>f6f7bb18-d599-4b1a-9dcd-90ed7885fcab</ID>
+<ID>2ad95129-10aa-4614-8eb0-2d0e73832b9a</ID>
 </OutLinks>
 <Enabled>True</Enabled>
 <RestingPotential Value="-60" Scale="milli" Actual="-0.06"/>
@@ -2820,7 +2820,7 @@
 <ImagePosition>RelativeToText</ImagePosition>
 <InLinkable>True</InLinkable>
 <LabelEdit>True</LabelEdit>
-<Location x="333" y="63"/>
+<Location x="363" y="10.5"/>
 <OutLinkable>True</OutLinkable>
 <ShadowStyle>None</ShadowStyle>
 <ShadowColor>-16777216</ShadowColor>
@@ -3138,7 +3138,7 @@
 <ImagePosition>RelativeToText</ImagePosition>
 <InLinkable>True</InLinkable>
 <LabelEdit>True</LabelEdit>
-<Location x="134.25" y="15"/>
+<Location x="123" y="10.5"/>
 <OutLinkable>True</OutLinkable>
 <ShadowStyle>None</ShadowStyle>
 <ShadowColor>-16777216</ShadowColor>
@@ -3465,6 +3465,53 @@
 <Url/>
 <ZOrder>0</ZOrder>
 <SynapticTypeID>d81ab876-3e51-4f9d-9ab0-01d185bed8f9</SynapticTypeID>
+<UserText/>
+<SynapticConductance Value="0.5" Scale="micro" Actual="5e-007"/>
+<ConductionDelay Value="0" Scale="milli" Actual="0"/>
+</Link>
+<Link>
+<AssemblyFile>IntegrateFireGUI.dll</AssemblyFile>
+<ClassName>IntegrateFireGUI.DataObjects.Behavior.Synapse</ClassName>
+<ID>2ad95129-10aa-4614-8eb0-2d0e73832b9a</ID>
+<AdjustDst>False</AdjustDst>
+<AdjustOrg>False</AdjustOrg>
+<ArrowDestination>
+<Style>Arrow</Style>
+<Size>Medium</Size>
+<Angle>deg30</Angle>
+<Filled>False</Filled>
+</ArrowDestination>
+<ArrowMiddle>
+<Style>None</Style>
+<Size>Small</Size>
+<Angle>deg30</Angle>
+<Filled>False</Filled>
+</ArrowMiddle>
+<ArrowOrigin>
+<Style>None</Style>
+<Size>Small</Size>
+<Angle>deg30</Angle>
+<Filled>False</Filled>
+</ArrowOrigin>
+<BackMode>Transparent</BackMode>
+<DashStyle>Solid</DashStyle>
+<DrawColor>-16777216</DrawColor>
+<DrawWidth>1</DrawWidth>
+<DestinationID>1d416595-9c1b-49b7-8133-9bbd8440b63f</DestinationID>
+<Font Family="Arial" Size="10" Bold="False" Underline="False" Strikeout="False" Italic="False"/>
+<Hidden>False</Hidden>
+<Jump>Arc</Jump>
+<LineStyle>Polyline</LineStyle>
+<OrthogonalDynamic>True</OrthogonalDynamic>
+<OriginID>7bb2465e-2120-4f7b-88dd-21c4deee80b9</OriginID>
+<OrientedText>True</OrientedText>
+<Selectable>True</Selectable>
+<Stretchable>True</Stretchable>
+<Text/>
+<ToolTip/>
+<Url/>
+<ZOrder>0</ZOrder>
+<SynapticTypeID>4d8da314-6b87-4b23-bde2-6dee8fa87344</SynapticTypeID>
 <UserText/>
 <SynapticConductance Value="0.5" Scale="micro" Actual="5e-007"/>
 <ConductionDelay Value="0" Scale="milli" Actual="0"/>
@@ -3954,53 +4001,6 @@
 <SynapticConductance Value="0.5" Scale="micro" Actual="5e-007"/>
 <ConductionDelay Value="0" Scale="milli" Actual="0"/>
 </Link>
-<Link>
-<AssemblyFile>IntegrateFireGUI.dll</AssemblyFile>
-<ClassName>IntegrateFireGUI.DataObjects.Behavior.Synapse</ClassName>
-<ID>f6f7bb18-d599-4b1a-9dcd-90ed7885fcab</ID>
-<AdjustDst>False</AdjustDst>
-<AdjustOrg>False</AdjustOrg>
-<ArrowDestination>
-<Style>Arrow</Style>
-<Size>Medium</Size>
-<Angle>deg30</Angle>
-<Filled>False</Filled>
-</ArrowDestination>
-<ArrowMiddle>
-<Style>None</Style>
-<Size>Small</Size>
-<Angle>deg30</Angle>
-<Filled>False</Filled>
-</ArrowMiddle>
-<ArrowOrigin>
-<Style>None</Style>
-<Size>Small</Size>
-<Angle>deg30</Angle>
-<Filled>False</Filled>
-</ArrowOrigin>
-<BackMode>Transparent</BackMode>
-<DashStyle>Solid</DashStyle>
-<DrawColor>-16777216</DrawColor>
-<DrawWidth>1</DrawWidth>
-<DestinationID>1d416595-9c1b-49b7-8133-9bbd8440b63f</DestinationID>
-<Font Family="Arial" Size="10" Bold="False" Underline="False" Strikeout="False" Italic="False"/>
-<Hidden>False</Hidden>
-<Jump>Arc</Jump>
-<LineStyle>Polyline</LineStyle>
-<OrthogonalDynamic>True</OrthogonalDynamic>
-<OriginID>7bb2465e-2120-4f7b-88dd-21c4deee80b9</OriginID>
-<OrientedText>True</OrientedText>
-<Selectable>True</Selectable>
-<Stretchable>True</Stretchable>
-<Text/>
-<ToolTip/>
-<Url/>
-<ZOrder>0</ZOrder>
-<SynapticTypeID>4d8da314-6b87-4b23-bde2-6dee8fa87344</SynapticTypeID>
-<UserText/>
-<SynapticConductance Value="0.5" Scale="micro" Actual="5e-007"/>
-<ConductionDelay Value="0" Scale="milli" Actual="0"/>
-</Link>
 </Links>
 <DiagramXml><![CDATA[<Root>
 <Diagram>
@@ -4277,19 +4277,6 @@
     <Font Name="Arial" Size="14" Bold="True" Italic="False" Strikeout="False" Underline="False" />
     <Tag>1d416595-9c1b-49b7-8133-9bbd8440b63f</Tag>
   </Node>
-  <Link Org="20" Dst="21">
-    <OrientedText>True</OrientedText>
-    <Line Style="Polyline" OrthogonalDynamic="True" RoundedCorner="True" />
-    <ArrowDst Head="Circle" Size="Medium" Angle="deg30" Filled="True" />
-    <ArrowOrg Head="None" Size="Small" Angle="deg30" Filled="False" />
-    <ArrowMid Head="One" Size="Small" Angle="deg30" Filled="False" />
-    <Jump>Arc</Jump>
-    <DrawColor>-16777216</DrawColor>
-    <TextColor>-16777216</TextColor>
-    <Font Name="Arial" Size="12" Bold="False" Italic="False" Strikeout="False" Underline="False" />
-    <Point X="273.75" Y="75" />
-    <Tag>f6f7bb18-d599-4b1a-9dcd-90ed7885fcab</Tag>
-  </Link>
   <Link Org="21" Dst="20">
     <OrientedText>True</OrientedText>
     <Line Style="Polyline" OrthogonalDynamic="True" RoundedCorner="True" />
@@ -4372,6 +4359,19 @@
     <TextColor>-16777216</TextColor>
     <Font Name="Arial" Size="12" Bold="False" Italic="False" Strikeout="False" Underline="False" />
     <Tag>e0756723-3934-4de5-b050-457904bdfc09</Tag>
+  </Link>
+  <Link Org="20" Dst="21">
+    <OrientedText>True</OrientedText>
+    <Line Style="Polyline" OrthogonalDynamic="True" RoundedCorner="True" />
+    <ArrowDst Head="Circle" Size="Medium" Angle="deg30" Filled="True" />
+    <ArrowOrg Head="None" Size="Small" Angle="deg30" Filled="False" />
+    <ArrowMid Head="One" Size="Small" Angle="deg30" Filled="False" />
+    <Jump>Arc</Jump>
+    <DrawColor>-16777216</DrawColor>
+    <TextColor>-16777216</TextColor>
+    <Font Name="Arial" Size="12" Bold="False" Italic="False" Strikeout="False" Underline="False" />
+    <Point X="277.5" Y="68.25" />
+    <Tag>2ad95129-10aa-4614-8eb0-2d0e73832b9a</Tag>
   </Link>
 </AddFlow>
 </Diagram>
@@ -4702,8 +4702,8 @@
 </Stimuli>
 <HudItems>
 <HudItem>
-<Name>a34ae4cc-b5d1-46d0-b19b-52eb3d674660</Name>
-<ID>a34ae4cc-b5d1-46d0-b19b-52eb3d674660</ID>
+<Name>21ae9f71-5e88-4a03-be08-050a19ea82af</Name>
+<ID>21ae9f71-5e88-4a03-be08-050a19ea82af</ID>
 <Type>HudText</Type>
 <CharSize>30</CharSize>
 <Text>Time: %3.3f</Text>
@@ -4781,7 +4781,7 @@
 <AutomaticTimeScale>True</AutomaticTimeScale>
 <DivisionMarkFactor>4</DivisionMarkFactor>
 <Divisions>10</Divisions>
-<MajorInterval>10</MajorInterval>
+<MajorInterval>1</MajorInterval>
 <MiddleMarkFactor>3</MiddleMarkFactor>
 <TimeScale>Seconds</TimeScale>
 </Form>
@@ -4797,7 +4797,7 @@
 <DockingConfig>&lt;?xml version="1.0" encoding="us-ascii"?&gt;
 &lt;!-- DotNetMagic, The User Interface library for .NET (www.crownwood.net) --&gt;
 &lt;!-- Modifying this generated file will probably render it invalid --&gt;
-&lt;DockingConfig FormatVersion="10" InsideFill="False" InnerMinimum="20, 20" SavedAt="05/21/2020 17:42:39"&gt;
+&lt;DockingConfig FormatVersion="10" InsideFill="False" InnerMinimum="20, 20" SavedAt="05/22/2020 17:58:11"&gt;
   &lt;Content Name="Errors" Visible="True" Docked="True" AutoHidden="False" CaptionBar="True" CloseButton="False" DisplaySize="150, 125" DisplayLocation="150, 150" AutoHideSize="150, 125" FloatingSize="150, 150" FullTitle="Errors" Office2003BackColor="Base" UniqueName="" Office2007BackColor="Base" MediaPlayerBackColor="Base"&gt;
     &lt;DefaultRestore Type="Crownwood.DotNetMagic.Docking.RestoreContentState"&gt;
       &lt;Content Name="Errors" UniqueName="" /&gt;
@@ -4991,7 +4991,7 @@
       &lt;Child Type="null" /&gt;
     &lt;/FloatingRestore&gt;
   &lt;/Content&gt;
-  &lt;Content Name="Toolbox" Visible="True" Docked="True" AutoHidden="True" CaptionBar="True" CloseButton="False" DisplaySize="51, 150" DisplayLocation="150, 150" AutoHideSize="51, 150" FloatingSize="150, 150" FullTitle="Toolbox" Office2003BackColor="Base" UniqueName="" Office2007BackColor="Base" MediaPlayerBackColor="Base"&gt;
+  &lt;Content Name="Toolbox" Visible="True" Docked="True" AutoHidden="True" CaptionBar="True" CloseButton="False" DisplaySize="224, 150" DisplayLocation="150, 150" AutoHideSize="224, 150" FloatingSize="150, 150" FullTitle="Toolbox" Office2003BackColor="Base" UniqueName="" Office2007BackColor="Base" MediaPlayerBackColor="Base"&gt;
     &lt;DefaultRestore Type="Crownwood.DotNetMagic.Docking.RestoreContentState"&gt;
       &lt;Content Name="Toolbox" UniqueName="" /&gt;
       &lt;State Value="DockLeft" /&gt;
@@ -5260,7 +5260,7 @@
       &lt;/Page&gt;
     &lt;/Leaf&gt;
     &lt;Leaf Count="4" Unique="5" Space="59.706959706959706959706959710"&gt;
-      &lt;Page Title="Neural Subsystem" ImageList="True" ImageIndex="1" Selected="True" Control="null" UniqueName=""&gt;
+      &lt;Page Title="Neural Subsystem" ImageList="True" ImageIndex="1" Selected="False" Control="null" UniqueName=""&gt;
         &lt;CustomPageData&gt;&lt;![CDATA[&lt;TabPage&gt;
 &lt;Form&gt;
 &lt;ID&gt;334ca71a-3af1-49cc-9607-0f05cfe1c158&lt;/ID&gt;
@@ -5300,7 +5300,7 @@
 &lt;/TabPage&gt;
 ]]&gt;&lt;/CustomPageData&gt;
       &lt;/Page&gt;
-      &lt;Page Title="CPG" ImageList="True" ImageIndex="2" Selected="False" Control="null" UniqueName=""&gt;
+      &lt;Page Title="CPG" ImageList="True" ImageIndex="2" Selected="True" Control="null" UniqueName=""&gt;
         &lt;CustomPageData&gt;&lt;![CDATA[&lt;TabPage&gt;
 &lt;Form&gt;
 &lt;ID&gt;e12c3a38-2c56-4d53-919a-69532255226c&lt;/ID&gt;
