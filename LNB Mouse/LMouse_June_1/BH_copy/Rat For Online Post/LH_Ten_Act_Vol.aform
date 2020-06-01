@@ -6,7 +6,7 @@
 <AssemblyFile>LicensedAnimatGUI.dll</AssemblyFile>
 <ClassName>LicensedAnimatGUI.Forms.Charts.LineChart</ClassName>
 <AutoCollectInterval>True</AutoCollectInterval>
-<CollectDataInterval Value="0.1" Scale="milli" Actual="0.0001"/>
+<CollectDataInterval Value="0.2" Scale="milli" Actual="0.0002"/>
 <CollectTimeWindow Value="6" Scale="None" Actual="6"/>
 <UpdateDataInterval Value="200" Scale="milli" Actual="0.2"/>
 <SetStartEndTime>True</SetStartEndTime>
@@ -16,15 +16,8 @@
 <Axis>
 <AssemblyFile>LicensedAnimatGUI.dll</AssemblyFile>
 <ClassName>LicensedAnimatGUI.DataObjects.Charting.Pro2DAxis</ClassName>
-<Name>Activation</Name>
-<WorkingAxis>1</WorkingAxis>
-<DataColumns/>
-</Axis>
-<Axis>
-<AssemblyFile>LicensedAnimatGUI.dll</AssemblyFile>
-<ClassName>LicensedAnimatGUI.DataObjects.Charting.Pro2DAxis</ClassName>
 <Name>MN Voltage</Name>
-<WorkingAxis>2</WorkingAxis>
+<WorkingAxis>0</WorkingAxis>
 <DataColumns>
 <DataColumn>
 <AssemblyFile>LicensedAnimatGUI.dll</AssemblyFile>
@@ -36,8 +29,8 @@
 <StructureID>6a59be4a-7066-4cb0-9456-90c5a59794c5</StructureID>
 <DataItemID>d7016eae-6728-4192-bc62-f20a919d9185</DataItemID>
 <SelectedDataType>MembraneVoltage</SelectedDataType>
-<DataSubSet>12</DataSubSet>
-<PrevDataSubset>12</PrevDataSubset>
+<DataSubSet>0</DataSubSet>
+<PrevDataSubset>0</PrevDataSubset>
 <UseIncomingDataType>False</UseIncomingDataType>
 <LineType>MediumSolid</LineType>
 <PointType>Plus</PointType>
@@ -54,8 +47,8 @@
 <StructureID>6a59be4a-7066-4cb0-9456-90c5a59794c5</StructureID>
 <DataItemID>e3c72610-7dac-4331-b93e-06a904931b42</DataItemID>
 <SelectedDataType>MembraneVoltage</SelectedDataType>
-<DataSubSet>13</DataSubSet>
-<PrevDataSubset>13</PrevDataSubset>
+<DataSubSet>1</DataSubSet>
+<PrevDataSubset>1</PrevDataSubset>
 <UseIncomingDataType>False</UseIncomingDataType>
 <LineType>MediumSolid</LineType>
 <PointType>Plus</PointType>
@@ -72,8 +65,8 @@
 <StructureID>6a59be4a-7066-4cb0-9456-90c5a59794c5</StructureID>
 <DataItemID>164c06ea-5f48-410b-8c6c-aa4e66c63938</DataItemID>
 <SelectedDataType>MembraneVoltage</SelectedDataType>
-<DataSubSet>14</DataSubSet>
-<PrevDataSubset>14</PrevDataSubset>
+<DataSubSet>2</DataSubSet>
+<PrevDataSubset>2</PrevDataSubset>
 <UseIncomingDataType>False</UseIncomingDataType>
 <LineType>MediumSolid</LineType>
 <PointType>Plus</PointType>
@@ -90,8 +83,8 @@
 <StructureID>6a59be4a-7066-4cb0-9456-90c5a59794c5</StructureID>
 <DataItemID>d3ee639b-1b43-4f35-93f4-cf3df43cd697</DataItemID>
 <SelectedDataType>MembraneVoltage</SelectedDataType>
-<DataSubSet>15</DataSubSet>
-<PrevDataSubset>15</PrevDataSubset>
+<DataSubSet>3</DataSubSet>
+<PrevDataSubset>3</PrevDataSubset>
 <UseIncomingDataType>False</UseIncomingDataType>
 <LineType>MediumSolid</LineType>
 <PointType>Plus</PointType>
@@ -108,8 +101,8 @@
 <StructureID>6a59be4a-7066-4cb0-9456-90c5a59794c5</StructureID>
 <DataItemID>aa1359f9-344e-413c-8693-cb35c2691b59</DataItemID>
 <SelectedDataType>MembraneVoltage</SelectedDataType>
-<DataSubSet>16</DataSubSet>
-<PrevDataSubset>16</PrevDataSubset>
+<DataSubSet>4</DataSubSet>
+<PrevDataSubset>4</PrevDataSubset>
 <UseIncomingDataType>False</UseIncomingDataType>
 <LineType>MediumSolid</LineType>
 <PointType>Plus</PointType>
@@ -126,8 +119,8 @@
 <StructureID>6a59be4a-7066-4cb0-9456-90c5a59794c5</StructureID>
 <DataItemID>83b98a96-d878-4762-928e-ee5e9288beaf</DataItemID>
 <SelectedDataType>MembraneVoltage</SelectedDataType>
-<DataSubSet>17</DataSubSet>
-<PrevDataSubset>17</PrevDataSubset>
+<DataSubSet>5</DataSubSet>
+<PrevDataSubset>5</PrevDataSubset>
 <UseIncomingDataType>False</UseIncomingDataType>
 <LineType>MediumSolid</LineType>
 <PointType>Plus</PointType>
@@ -136,18 +129,11 @@
 </DataColumn>
 </DataColumns>
 </Axis>
-<Axis>
-<AssemblyFile>LicensedAnimatGUI.dll</AssemblyFile>
-<ClassName>LicensedAnimatGUI.DataObjects.Charting.Pro2DAxis</ClassName>
-<Name>Tension</Name>
-<WorkingAxis>0</WorkingAxis>
-<DataColumns/>
-</Axis>
 </AxisList>
 <SaveDataWhenClosed>False</SaveDataWhenClosed>
 <UpdateChartAtEnd>True</UpdateChartAtEnd>
-<PointsToKeep>60000</PointsToKeep>
+<PointsToKeep>30000</PointsToKeep>
 <YAxisOffset>0</YAxisOffset>
-<GraphConfig ByteCount="8971"/>
+<GraphConfig ByteCount="9010"/>
 </Form>
 </Form>
