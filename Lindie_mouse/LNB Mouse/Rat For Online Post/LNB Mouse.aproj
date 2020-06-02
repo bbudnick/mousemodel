@@ -270,7 +270,7 @@
 <Texture/>
 <LocalPosition>
 <X Value="0" Scale="None" Actual="0"/>
-<Y Value="0" Scale="None" Actual="0"/>
+<Y Value="27" Scale="milli" Actual="0.027"/>
 <Z Value="0" Scale="None" Actual="0"/>
 </LocalPosition>
 <Rotation>
@@ -473,7 +473,7 @@
 <StaticFrictionScale Value="1" Scale="None" Actual="1"/>
 </Friction>
 <LowerLimit>
-<Name/>
+<Name>854609bb-cd46-48fb-a232-cb0b6e9e56a4</Name>
 <ID>854609bb-cd46-48fb-a232-cb0b6e9e56a4</ID>
 <LimitPos Value="-30" Scale="None" Actual="-30"/>
 <Damping Value="250" Scale="None" Actual="250"/>
@@ -481,7 +481,7 @@
 <Stiffness Value="1" Scale="Kilo" Actual="1000"/>
 </LowerLimit>
 <UpperLimit>
-<Name/>
+<Name>715ad2ca-c0db-4263-86c5-6b982f2230e9</Name>
 <ID>715ad2ca-c0db-4263-86c5-6b982f2230e9</ID>
 <LimitPos Value="50" Scale="None" Actual="50"/>
 <Damping Value="250" Scale="None" Actual="250"/>
@@ -668,7 +668,7 @@
 <StaticFrictionScale Value="1" Scale="None" Actual="1"/>
 </Friction>
 <LowerLimit>
-<Name/>
+<Name>ebcbea90-538b-4726-88a5-be6867df8d5e</Name>
 <ID>ebcbea90-538b-4726-88a5-be6867df8d5e</ID>
 <LimitPos Value="-145" Scale="None" Actual="-145"/>
 <Damping Value="250" Scale="None" Actual="250"/>
@@ -676,7 +676,7 @@
 <Stiffness Value="1" Scale="Kilo" Actual="1000"/>
 </LowerLimit>
 <UpperLimit>
-<Name/>
+<Name>9206116a-3896-405d-8cc7-a6e69c7a9093</Name>
 <ID>9206116a-3896-405d-8cc7-a6e69c7a9093</ID>
 <LimitPos Value="-40" Scale="None" Actual="-40"/>
 <Damping Value="250" Scale="None" Actual="250"/>
@@ -863,7 +863,7 @@
 <StaticFrictionScale Value="1" Scale="None" Actual="1"/>
 </Friction>
 <LowerLimit>
-<Name/>
+<Name>2b2300e3-94dd-4a69-8cbd-683cfa0b1c2d</Name>
 <ID>2b2300e3-94dd-4a69-8cbd-683cfa0b1c2d</ID>
 <LimitPos Value="-50" Scale="None" Actual="-50"/>
 <Damping Value="250" Scale="None" Actual="250"/>
@@ -871,7 +871,7 @@
 <Stiffness Value="1" Scale="Kilo" Actual="1000"/>
 </LowerLimit>
 <UpperLimit>
-<Name/>
+<Name>b3767cce-8061-4dfd-86d2-15c092d79132</Name>
 <ID>b3767cce-8061-4dfd-86d2-15c092d79132</ID>
 <LimitPos Value="50" Scale="None" Actual="50"/>
 <Damping Value="250" Scale="None" Actual="250"/>
@@ -1548,7 +1548,7 @@
 <StaticFrictionScale Value="1" Scale="None" Actual="1"/>
 </Friction>
 <LowerLimit>
-<Name/>
+<Name>4858502e-0909-4380-915d-7f9b961a1620</Name>
 <ID>4858502e-0909-4380-915d-7f9b961a1620</ID>
 <LimitPos Value="-145" Scale="None" Actual="-145"/>
 <Damping Value="250" Scale="None" Actual="250"/>
@@ -1556,7 +1556,7 @@
 <Stiffness Value="1" Scale="Kilo" Actual="1000"/>
 </LowerLimit>
 <UpperLimit>
-<Name/>
+<Name>ac755ba5-37d1-407d-add1-f43c3e1de166</Name>
 <ID>ac755ba5-37d1-407d-add1-f43c3e1de166</ID>
 <LimitPos Value="-40" Scale="None" Actual="-40"/>
 <Damping Value="250" Scale="None" Actual="250"/>
@@ -1879,7 +1879,7 @@
 <StaticFrictionScale Value="1" Scale="None" Actual="1"/>
 </Friction>
 <LowerLimit>
-<Name/>
+<Name>c41a1d55-bfb2-4986-9519-6ffed0a94fd1</Name>
 <ID>c41a1d55-bfb2-4986-9519-6ffed0a94fd1</ID>
 <LimitPos Value="-50" Scale="None" Actual="-50"/>
 <Damping Value="250" Scale="None" Actual="250"/>
@@ -1887,7 +1887,7 @@
 <Stiffness Value="1" Scale="Kilo" Actual="1000"/>
 </LowerLimit>
 <UpperLimit>
-<Name/>
+<Name>93f53924-717d-401a-9efc-a9ff787879e7</Name>
 <ID>93f53924-717d-401a-9efc-a9ff787879e7</ID>
 <LimitPos Value="50" Scale="None" Actual="50"/>
 <Damping Value="250" Scale="None" Actual="250"/>
@@ -2134,7 +2134,7 @@
 <LongtitudeSegments>20</LongtitudeSegments>
 </RigidBody>
 <RigidBody>
-<Name>RH_SOL_Insertion</Name>
+<Name>RH_SOL_Origin</Name>
 <ID>6467b5cd-3574-48c4-8565-6dc9c15eb25e</ID>
 <Description/>
 <Transparencies>
@@ -33048,8 +33048,8 @@
 <Stimuli/>
 <HudItems>
 <HudItem>
-<Name>a89c82ac-013c-4e4e-a452-2df0299c1e06</Name>
-<ID>a89c82ac-013c-4e4e-a452-2df0299c1e06</ID>
+<Name>3724720f-c402-43a3-bb34-2200773b05d8</Name>
+<ID>3724720f-c402-43a3-bb34-2200773b05d8</ID>
 <Type>HudText</Type>
 <CharSize>30</CharSize>
 <Text>Time: %3.3f</Text>
@@ -33143,8 +33143,8 @@
 <DockingConfig>&lt;?xml version="1.0" encoding="us-ascii"?&gt;
 &lt;!-- DotNetMagic, The User Interface library for .NET (www.crownwood.net) --&gt;
 &lt;!-- Modifying this generated file will probably render it invalid --&gt;
-&lt;DockingConfig FormatVersion="10" InsideFill="False" InnerMinimum="20, 20" SavedAt="06/01/2020 09:28:34"&gt;
-  &lt;Content Name="Workspace" Visible="True" Docked="True" AutoHidden="False" CaptionBar="True" CloseButton="False" DisplaySize="244, 150" DisplayLocation="150, 150" AutoHideSize="200, 150" FloatingSize="150, 150" FullTitle="Workspace" Office2003BackColor="Base" UniqueName="" Office2007BackColor="Base" MediaPlayerBackColor="Base"&gt;
+&lt;DockingConfig FormatVersion="10" InsideFill="False" InnerMinimum="20, 20" SavedAt="06/01/2020 16:36:18"&gt;
+  &lt;Content Name="Workspace" Visible="True" Docked="True" AutoHidden="False" CaptionBar="True" CloseButton="False" DisplaySize="289, 150" DisplayLocation="150, 150" AutoHideSize="200, 150" FloatingSize="150, 150" FullTitle="Workspace" Office2003BackColor="Base" UniqueName="" Office2007BackColor="Base" MediaPlayerBackColor="Base"&gt;
     &lt;DefaultRestore Type="Crownwood.DotNetMagic.Docking.RestoreContentState"&gt;
       &lt;Content Name="Workspace" UniqueName="" /&gt;
       &lt;State Value="DockLeft" /&gt;
@@ -33163,7 +33163,7 @@
     &lt;DockingRestore Type="Crownwood.DotNetMagic.Docking.RestoreContentDockingAffinity"&gt;
       &lt;Content Name="Workspace" UniqueName="" /&gt;
       &lt;State Value="DockLeft" /&gt;
-      &lt;Position Size="244, 150" Location="150, 150" /&gt;
+      &lt;Position Size="289, 150" Location="150, 150" /&gt;
       &lt;Best Count="2"&gt;
         &lt;Item Name="Workspace" /&gt;
         &lt;Item Name="Properties" /&gt;
@@ -33177,7 +33177,7 @@
       &lt;/PreviousAll&gt;
       &lt;Child Type="Crownwood.DotNetMagic.Docking.RestoreZoneAffinity"&gt;
         &lt;Content Name="Workspace" UniqueName="" /&gt;
-        &lt;Space Value="50" /&gt;
+        &lt;Space Value="47.717231222385861561119293080" /&gt;
         &lt;Best Count="1"&gt;
           &lt;Item Name="Workspace" /&gt;
         &lt;/Best&gt;
@@ -33200,7 +33200,7 @@
       &lt;Child Type="null" /&gt;
     &lt;/FloatingRestore&gt;
   &lt;/Content&gt;
-  &lt;Content Name="Properties" Visible="True" Docked="True" AutoHidden="False" CaptionBar="True" CloseButton="False" DisplaySize="244, 150" DisplayLocation="150, 150" AutoHideSize="150, 150" FloatingSize="150, 150" FullTitle="Properties" Office2003BackColor="Base" UniqueName="" Office2007BackColor="Base" MediaPlayerBackColor="Base"&gt;
+  &lt;Content Name="Properties" Visible="True" Docked="True" AutoHidden="False" CaptionBar="True" CloseButton="False" DisplaySize="289, 150" DisplayLocation="150, 150" AutoHideSize="150, 150" FloatingSize="150, 150" FullTitle="Properties" Office2003BackColor="Base" UniqueName="" Office2007BackColor="Base" MediaPlayerBackColor="Base"&gt;
     &lt;DefaultRestore Type="Crownwood.DotNetMagic.Docking.RestoreContentState"&gt;
       &lt;Content Name="Properties" UniqueName="" /&gt;
       &lt;State Value="DockLeft" /&gt;
@@ -33221,7 +33221,7 @@
     &lt;DockingRestore Type="Crownwood.DotNetMagic.Docking.RestoreContentDockingAffinity"&gt;
       &lt;Content Name="Properties" UniqueName="" /&gt;
       &lt;State Value="DockLeft" /&gt;
-      &lt;Position Size="244, 150" Location="150, 150" /&gt;
+      &lt;Position Size="289, 150" Location="150, 150" /&gt;
       &lt;Best Count="1"&gt;
         &lt;Item Name="Properties" /&gt;
       &lt;/Best&gt;
@@ -33234,7 +33234,7 @@
       &lt;/PreviousAll&gt;
       &lt;Child Type="Crownwood.DotNetMagic.Docking.RestoreZoneAffinity"&gt;
         &lt;Content Name="Properties" UniqueName="" /&gt;
-        &lt;Space Value="100" /&gt;
+        &lt;Space Value="100.000" /&gt;
         &lt;Best Count="1"&gt;
           &lt;Item Name="Properties" /&gt;
         &lt;/Best&gt;
@@ -33615,7 +33615,7 @@
 &lt;TabbedGroups FormatVersion="1" ActiveLeaf="7"&gt;
   &lt;CustomGlobalData /&gt;
   &lt;Sequence Count="2" Unique="0" Space="100" Direction="Horizontal"&gt;
-    &lt;Leaf Count="7" Unique="7" Space="88.02281368821292775665399240"&gt;
+    &lt;Leaf Count="7" Unique="7" Space="67.700875099443118536197295150"&gt;
       &lt;Page Title="Rat Body" ImageList="True" ImageIndex="0" Selected="True" Control="null" UniqueName=""&gt;
         &lt;CustomPageData&gt;&lt;![CDATA[&lt;TabPage&gt;
 &lt;Form&gt;
@@ -33710,7 +33710,7 @@
 ]]&gt;&lt;/CustomPageData&gt;
       &lt;/Page&gt;
     &lt;/Leaf&gt;
-    &lt;Leaf Count="2" Unique="7" Space="11.977186311787072243346007600"&gt;
+    &lt;Leaf Count="2" Unique="7" Space="32.299124900556881463802704850"&gt;
       &lt;Page Title="LH_Control" ImageList="True" ImageIndex="2" Selected="False" Control="null" UniqueName=""&gt;
         &lt;CustomPageData&gt;&lt;![CDATA[&lt;TabPage&gt;
 &lt;Form&gt;
