@@ -278,7 +278,7 @@
 <Y Value="0" Scale="None" Actual="0"/>
 <Z Value="0" Scale="None" Actual="0"/>
 </Rotation>
-<LocalMatrix>1,0,0,0,0,1,0,0,0,0,1,0,0,0.4,0,1</LocalMatrix>
+<LocalMatrix>1,0,0,0,-0,1,0,0,0,-0,1,0,0,0.4,0,1</LocalMatrix>
 <DraggerSize Value="-1" Scale="None" Actual="-1"/>
 <Type>Box</Type>
 <PartType>AnimatGUI.DataObjects.Physical.Bodies.Box</PartType>
@@ -410,7 +410,7 @@
 <Y Value="0" Scale="None" Actual="0"/>
 <Z Value="0" Scale="None" Actual="0"/>
 </Rotation>
-<LocalMatrix>0.984244,0.176817,3.18208e-006,0,-0.176817,0.984244,3.60175e-005,0,3.23658e-006,-3.60126e-005,1,0,-0.0103792,-0.0666199,-0.0566025,1</LocalMatrix>
+<LocalMatrix>1,0,0,0,-0,1,0,0,0,-0,1,0,-0.0225,-0.0677,-0.0566,1</LocalMatrix>
 <DraggerSize Value="-1" Scale="None" Actual="-1"/>
 <Type>Box</Type>
 <PartType>AnimatGUI.DataObjects.Physical.Bodies.Box</PartType>
@@ -1016,7 +1016,7 @@
 <Y Value="0" Scale="None" Actual="0"/>
 <Z Value="0" Scale="None" Actual="0"/>
 </Rotation>
-<LocalMatrix>0.766045,-0.642787,4.77522e-005,0,0.642787,0.766045,-0.00013089,0,4.75541e-005,0.000130962,1,0,-0.0547141,-0.124156,1.11414e-005,1</LocalMatrix>
+<LocalMatrix>1,0,0,0,-0,1,0,0,0,-0,1,0,0,-0.14407,0,1</LocalMatrix>
 <DraggerSize Value="-1" Scale="None" Actual="-1"/>
 <Type>Box</Type>
 <PartType>AnimatGUI.DataObjects.Physical.Bodies.Box</PartType>
@@ -1280,7 +1280,7 @@
 <Y Value="0" Scale="None" Actual="0"/>
 <Z Value="0" Scale="None" Actual="0"/>
 </Rotation>
-<LocalMatrix>0.871309,-0.490735,2.62881e-005,0,0.490735,0.871309,-9.99356e-005,0,2.61369e-005,9.99752e-005,1,0,0.0408379,-0.116843,2.10415e-006,1</LocalMatrix>
+<LocalMatrix>1,0,0,0,-0,1,0,0,0,-0,1,0,0.05115,-0.09272,0,1</LocalMatrix>
 <DraggerSize Value="-1" Scale="None" Actual="-1"/>
 <Type>Box</Type>
 <PartType>AnimatGUI.DataObjects.Physical.Bodies.Box</PartType>
@@ -1914,7 +1914,7 @@
 <D Value="0" Scale="None" Actual="0"/>
 </StimulusTension>
 <LengthTension>
-<ID>59fe0eab-9e47-4abf-bd32-ffbdb2087df6</ID>
+<ID>8b0e9d86-49f9-4527-9c4b-5e7632551eb4</ID>
 <Type>LengthTension</Type>
 <AssemblyFile>AnimatGUI.dll</AssemblyFile>
 <ClassName>AnimatGUI.DataObjects.Gains.MuscleGains.LengthTension</ClassName>
@@ -1981,7 +1981,7 @@
 <D Value="0" Scale="None" Actual="0"/>
 </StimulusTension>
 <LengthTension>
-<ID>4769f3a7-a246-43c8-80da-1ba80484ea26</ID>
+<ID>3d7d249a-e16d-4d90-a7e2-00d7efbb3305</ID>
 <Type>LengthTension</Type>
 <AssemblyFile>AnimatGUI.dll</AssemblyFile>
 <ClassName>AnimatGUI.DataObjects.Gains.MuscleGains.LengthTension</ClassName>
@@ -2256,7 +2256,7 @@
 <Y Value="0" Scale="None" Actual="0"/>
 <Z Value="0" Scale="None" Actual="0"/>
 </Rotation>
-<LocalMatrix>0.987437,0.158013,2.53453e-006,0,-0.158013,0.987437,3.21867e-005,0,2.58323e-006,-3.21829e-005,1,0,-0.0116682,-0.0668388,0.0565978,1</LocalMatrix>
+<LocalMatrix>1,0,0,0,-0,1,0,0,0,-0,1,0,-0.0225,-0.0677,0.0566,1</LocalMatrix>
 <DraggerSize Value="-1" Scale="None" Actual="-1"/>
 <Type>Box</Type>
 <PartType>AnimatGUI.DataObjects.Physical.Bodies.Box</PartType>
@@ -2654,7 +2654,7 @@
 <Y Value="0" Scale="None" Actual="0"/>
 <Z Value="0" Scale="None" Actual="0"/>
 </Rotation>
-<LocalMatrix>0.766045,-0.642786,4.77521e-005,0,0.642786,0.766045,-0.00013089,0,4.7554e-005,0.000130962,1,0,-0.054714,-0.124156,1.11414e-005,1</LocalMatrix>
+<LocalMatrix>1,0,0,0,-0,1,0,0,0,-0,1,0,0,-0.14407,0,1</LocalMatrix>
 <DraggerSize Value="-1" Scale="None" Actual="-1"/>
 <Type>Box</Type>
 <PartType>AnimatGUI.DataObjects.Physical.Bodies.Box</PartType>
@@ -2918,7 +2918,7 @@
 <Y Value="0" Scale="None" Actual="0"/>
 <Z Value="0" Scale="None" Actual="0"/>
 </Rotation>
-<LocalMatrix>0.997825,-0.065924,4.53246e-007,0,0.065924,0.997825,-1.34274e-005,0,4.32928e-007,1.34281e-005,1,0,0.0505377,-0.0960755,1.25235e-007,1</LocalMatrix>
+<LocalMatrix>1,0,0,0,-0,1,0,0,0,-0,1,0,0.05115,-0.09272,0,1</LocalMatrix>
 <DraggerSize Value="-1" Scale="None" Actual="-1"/>
 <Type>Box</Type>
 <PartType>AnimatGUI.DataObjects.Physical.Bodies.Box</PartType>
@@ -3552,7 +3552,7 @@
 <D Value="0" Scale="None" Actual="0"/>
 </StimulusTension>
 <LengthTension>
-<ID>2b9c4883-97c3-40a5-8db2-f2c4e074d612</ID>
+<ID>5eefd908-1ac3-485b-971e-1cc8576f365c</ID>
 <Type>LengthTension</Type>
 <AssemblyFile>AnimatGUI.dll</AssemblyFile>
 <ClassName>AnimatGUI.DataObjects.Gains.MuscleGains.LengthTension</ClassName>
@@ -3560,14 +3560,14 @@
 <LimitsReadOnly>False</LimitsReadOnly>
 <LimitOutputsReadOnly>False</LimitOutputsReadOnly>
 <UseParentIncomingDataType>True</UseParentIncomingDataType>
-<LowerLimitScale Value="12.366" Scale="milli" Actual="0.012366"/>
-<UpperLimitScale Value="15.114" Scale="milli" Actual="0.015114"/>
+<LowerLimitScale Value="19.125" Scale="milli" Actual="0.019125"/>
+<UpperLimitScale Value="23.375" Scale="milli" Actual="0.023375"/>
 <LowerOutputScale Value="0" Scale="None" Actual="0"/>
 <UpperOutputScale Value="1" Scale="None" Actual="1"/>
 <IndependentUnits>Meters</IndependentUnits>
 <DependentUnits>% Isometric Tension Used</DependentUnits>
-<RestingLength Value="1.374" Scale="centi" Actual="0.01374"/>
-<Lwidth Value="0.412" Scale="centi" Actual="0.00412"/>
+<RestingLength Value="2.125" Scale="centi" Actual="0.02125"/>
+<Lwidth Value="0.683" Scale="centi" Actual="0.00683"/>
 <PeLength Value="90" Scale="None" Actual="90"/>
 <MinPeLength Value="5" Scale="None" Actual="5"/>
 </LengthTension>
@@ -3619,7 +3619,7 @@
 <D Value="0" Scale="None" Actual="0"/>
 </StimulusTension>
 <LengthTension>
-<ID>07ea9047-69ad-4158-871f-a22d15933843</ID>
+<ID>becd6bfc-09ca-4710-a3b1-31da334e5221</ID>
 <Type>LengthTension</Type>
 <AssemblyFile>AnimatGUI.dll</AssemblyFile>
 <ClassName>AnimatGUI.DataObjects.Gains.MuscleGains.LengthTension</ClassName>
@@ -3627,14 +3627,14 @@
 <LimitsReadOnly>False</LimitsReadOnly>
 <LimitOutputsReadOnly>False</LimitOutputsReadOnly>
 <UseParentIncomingDataType>True</UseParentIncomingDataType>
-<LowerLimitScale Value="7.146" Scale="milli" Actual="0.007146"/>
-<UpperLimitScale Value="8.734" Scale="milli" Actual="0.008734"/>
+<LowerLimitScale Value="7.884" Scale="milli" Actual="0.007884"/>
+<UpperLimitScale Value="9.636" Scale="milli" Actual="0.009636"/>
 <LowerOutputScale Value="0" Scale="None" Actual="0"/>
 <UpperOutputScale Value="1" Scale="None" Actual="1"/>
 <IndependentUnits>Meters</IndependentUnits>
 <DependentUnits>% Isometric Tension Used</DependentUnits>
-<RestingLength Value="0.794" Scale="centi" Actual="0.00794"/>
-<Lwidth Value="0.238" Scale="centi" Actual="0.00238"/>
+<RestingLength Value="0.876" Scale="centi" Actual="0.00876"/>
+<Lwidth Value="0.263" Scale="centi" Actual="0.00263"/>
 <PeLength Value="90" Scale="None" Actual="90"/>
 <MinPeLength Value="5" Scale="None" Actual="5"/>
 </LengthTension>
@@ -34374,7 +34374,7 @@
 <Y Value="0" Scale="None" Actual="0"/>
 <Z Value="0" Scale="None" Actual="0"/>
 </Rotation>
-<LocalMatrix>1,0,0,0,0,-0.000203653,-1,0,0,1,-0.000203653,0,0,0,0,1</LocalMatrix>
+<LocalMatrix>1,-0,0,0,-0,-0.000203653,-1,0,0,1,-0.000203653,0,0,0,0,1</LocalMatrix>
 <DraggerSize Value="-1" Scale="None" Actual="-1"/>
 <Type>Plane</Type>
 <PartType>AnimatGUI.DataObjects.Physical.Bodies.Plane</PartType>
@@ -34560,8 +34560,8 @@
 <Stimuli/>
 <HudItems>
 <HudItem>
-<Name>17a58517-292e-4aa9-b83a-600cd776f47c</Name>
-<ID>17a58517-292e-4aa9-b83a-600cd776f47c</ID>
+<Name>f3c065fe-a182-49fc-bcc5-0045d3b56e16</Name>
+<ID>f3c065fe-a182-49fc-bcc5-0045d3b56e16</ID>
 <Type>HudText</Type>
 <CharSize>30</CharSize>
 <Text>Time: %3.3f</Text>
@@ -34655,7 +34655,7 @@
 <DockingConfig>&lt;?xml version="1.0" encoding="us-ascii"?&gt;
 &lt;!-- DotNetMagic, The User Interface library for .NET (www.crownwood.net) --&gt;
 &lt;!-- Modifying this generated file will probably render it invalid --&gt;
-&lt;DockingConfig FormatVersion="10" InsideFill="False" InnerMinimum="20, 20" SavedAt="06/01/2020 21:23:47"&gt;
+&lt;DockingConfig FormatVersion="10" InsideFill="False" InnerMinimum="20, 20" SavedAt="06/03/2020 14:41:32"&gt;
   &lt;Content Name="Workspace" Visible="True" Docked="True" AutoHidden="False" CaptionBar="True" CloseButton="False" DisplaySize="471, 150" DisplayLocation="150, 150" AutoHideSize="200, 150" FloatingSize="150, 150" FullTitle="Workspace" Office2003BackColor="Base" UniqueName="" Office2007BackColor="Base" MediaPlayerBackColor="Base"&gt;
     &lt;DefaultRestore Type="Crownwood.DotNetMagic.Docking.RestoreContentState"&gt;
       &lt;Content Name="Workspace" UniqueName="" /&gt;
@@ -34689,7 +34689,7 @@
       &lt;/PreviousAll&gt;
       &lt;Child Type="Crownwood.DotNetMagic.Docking.RestoreZoneAffinity"&gt;
         &lt;Content Name="Workspace" UniqueName="" /&gt;
-        &lt;Space Value="47.717231222385861561119293080" /&gt;
+        &lt;Space Value="67.746686303387334315169366720" /&gt;
         &lt;Best Count="1"&gt;
           &lt;Item Name="Workspace" /&gt;
         &lt;/Best&gt;
