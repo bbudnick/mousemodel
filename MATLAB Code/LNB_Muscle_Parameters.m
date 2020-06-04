@@ -5,7 +5,7 @@ F_max = 1500; %newtons
 
 % F_max = 0.549;  % ILI
 % F_max = 2.828   % VL
-% F_max = 0       % PAT
+% F_max = 2.828   % PAT
 % F_max = 0.069   % EHL
 % F_max = 0.876   % BFA
 % F_max = 0.307   % POP
