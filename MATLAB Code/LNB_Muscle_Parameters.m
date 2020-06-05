@@ -16,32 +16,36 @@ max_length = .092; %meters
 min_length = .078; %meters
 
 % % ILI
-% max_length = 0.03864385236
-% min_length = 0.03864385236
+% max_length = 0.009676079178
+% min_length = 0.01273803448
 % 
 % % VL
-% max_length =
-% min_length =
-% 
+% max_length = 0.01259528713
+% min_length = 0.01361701386
+%
 % % PAT
-% max_length =
-% min_length =
+% max_length = 0.01518372296
+% min_length = 0.01361701386
 % 
 % % EHL
-% max_length =
-% min_length =
+% max_length = 0.01208694816
+% min_length = 0.01361569138
+%
+% % EHL wrapping point 
+% max_length = 20.47324651
+% min_length = 22.00198973
 % 
 % % BFA
-% max_length = 0.0413840105
-% min_length = 0.0413840105
+% max_length = 0.01728694827
+% min_length = 0.0136425014
 % 
 % % POP
-% max_length = 0.02741427958
-% min_length = 0.02741427958
-% 
+% max_length = 0.002763868059
+% min_length = 0.004000676805
+%
 % % SOL
-% max_length = 0.007208758752
-% min_length = 0.01042294598
+% max_length = 0.01042294598
+% min_length = 0.007208758752
 
 %% Muscle Parameters built on huristics that could see some change
 
@@ -100,7 +104,7 @@ rest_length = max_length
 
 %%%Damping; set such that at maximum speed, all force is disipated in the
 %%%damper
-c = F_max/v_max
+B = F_max/v_max
 
 %%%Kse value; set such that under maximum muscle force, the muscle deflects
 %%%by the amount set in kse_deflect
