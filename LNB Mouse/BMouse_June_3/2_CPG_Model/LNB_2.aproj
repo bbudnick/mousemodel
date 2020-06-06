@@ -11,10 +11,10 @@
 <UpdateDataInterval>250</UpdateDataInterval>
 <StartPaused>False</StartPaused>
 <EnableSimRecording>True</EnableSimRecording>
-<SetSimEnd>False</SetSimEnd>
+<SetSimEnd>True</SetSimEnd>
 <APIFile/>
-<SimEndTime Value="5.05" Scale="None" Actual="5.05"/>
-<PlaybackControlMode>FastestPossible</PlaybackControlMode>
+<SimEndTime Value="10" Scale="None" Actual="10"/>
+<PlaybackControlMode>MatchPhysicsStep</PlaybackControlMode>
 <PresetPlaybackTimeStep Value="0" Scale="milli" Actual="0"/>
 <Environment>
 <PhysicsTimeStep Value="100" Scale="micro" Actual="0.0001"/>
@@ -221,7 +221,7 @@
 </MaterialTypes>
 <Organisms>
 <Organism>
-<Name>Rat</Name>
+<Name>Mouse</Name>
 <ID>6a59be4a-7066-4cb0-9456-90c5a59794c5</ID>
 <Description>
 </Description>
@@ -306,8 +306,8 @@
 <MaxHydroTorque Value="20" Scale="None" Actual="20"/>
 <Magnus>0</Magnus>
 <EnableFluids>False</EnableFluids>
-<Density Value="1" Scale="None" Actual="1"/>
-<Mass Value="75.091" Scale="centi" Actual="0.75091"/>
+<Density Value="29.84" Scale="None" Actual="29.84"/>
+<Mass Value="22.407" Scale="None" Actual="22.407"/>
 <COM>
 <X Value="0" Scale="None" Actual="0"/>
 <Y Value="0" Scale="None" Actual="0"/>
@@ -438,8 +438,8 @@
 <MaxHydroTorque Value="20" Scale="None" Actual="20"/>
 <Magnus>0</Magnus>
 <EnableFluids>False</EnableFluids>
-<Density Value="1" Scale="None" Actual="1"/>
-<Mass Value="17.251" Scale="milli" Actual="0.017251"/>
+<Density Value="57.736" Scale="None" Actual="57.736"/>
+<Mass Value="99.601" Scale="centi" Actual="0.99601"/>
 <COM>
 <X Value="0" Scale="None" Actual="0"/>
 <Y Value="0" Scale="None" Actual="0"/>
@@ -1044,8 +1044,8 @@
 <MaxHydroTorque Value="20" Scale="None" Actual="20"/>
 <Magnus>0</Magnus>
 <EnableFluids>False</EnableFluids>
-<Density Value="1" Scale="None" Actual="1"/>
-<Mass Value="19.857" Scale="milli" Actual="0.019857"/>
+<Density Value="50.159" Scale="None" Actual="50.159"/>
+<Mass Value="99.6" Scale="centi" Actual="0.996"/>
 <COM>
 <X Value="0" Scale="None" Actual="0"/>
 <Y Value="0" Scale="None" Actual="0"/>
@@ -1308,8 +1308,8 @@
 <MaxHydroTorque Value="20" Scale="None" Actual="20"/>
 <Magnus>0</Magnus>
 <EnableFluids>False</EnableFluids>
-<Density Value="1" Scale="None" Actual="1"/>
-<Mass Value="47.948" Scale="milli" Actual="0.047948"/>
+<Density Value="10.386" Scale="None" Actual="10.386"/>
+<Mass Value="49.799" Scale="centi" Actual="0.49799"/>
 <COM>
 <X Value="0" Scale="None" Actual="0"/>
 <Y Value="0" Scale="None" Actual="0"/>
@@ -2115,7 +2115,7 @@
 <AttachID>c1162c1e-241e-42b2-ba57-0f98859acc1d</AttachID>
 </Attachments>
 <StimulusTension>
-<ID>e56238b2-177b-46ef-aad1-b573ea1dc5f0</ID>
+<ID>3a27135e-e79a-4cf1-b79b-a108b563d29b</ID>
 <Type>StimulusTension</Type>
 <AssemblyFile>AnimatGUI.dll</AssemblyFile>
 <ClassName>AnimatGUI.DataObjects.Gains.MuscleGains.StimulusTension</ClassName>
@@ -2130,12 +2130,12 @@
 <IndependentUnits>Membrane Voltage (V)</IndependentUnits>
 <DependentUnits>Contractile Tension (N)</DependentUnits>
 <A Value="-0.05" Scale="milli" Actual="-5e-005"/>
-<B Value="100" Scale="None" Actual="100"/>
+<B Value="0.549" Scale="None" Actual="0.549"/>
 <C Value="121.465" Scale="None" Actual="121.465"/>
 <D Value="-0.0013" Scale="None" Actual="-0.0013"/>
 </StimulusTension>
 <LengthTension>
-<ID>c2af16d4-f106-45e5-aef3-463ac8a0be53</ID>
+<ID>303a4cd7-67a4-4f48-a49a-a75bb45c92b2</ID>
 <Type>LengthTension</Type>
 <AssemblyFile>AnimatGUI.dll</AssemblyFile>
 <ClassName>AnimatGUI.DataObjects.Gains.MuscleGains.LengthTension</ClassName>
@@ -2215,7 +2215,7 @@
 <MaxHydroTorque Value="20" Scale="None" Actual="20"/>
 <Magnus>0</Magnus>
 <EnableFluids>False</EnableFluids>
-<Density Value="1" Scale="None" Actual="1"/>
+<Density Value="0.5" Scale="None" Actual="0.5"/>
 <Mass Value="40.544" Scale="milli" Actual="0.040544"/>
 <COM>
 <X Value="0" Scale="None" Actual="0"/>
@@ -2410,7 +2410,7 @@
 <MaxHydroTorque Value="20" Scale="None" Actual="20"/>
 <Magnus>0</Magnus>
 <EnableFluids>False</EnableFluids>
-<Density Value="1" Scale="None" Actual="1"/>
+<Density Value="0.5" Scale="None" Actual="0.5"/>
 <Mass Value="31.19" Scale="milli" Actual="0.03119"/>
 <COM>
 <X Value="0" Scale="None" Actual="0"/>
@@ -2517,7 +2517,7 @@
 <MaxHydroTorque Value="20" Scale="None" Actual="20"/>
 <Magnus>0</Magnus>
 <EnableFluids>False</EnableFluids>
-<Density Value="1" Scale="None" Actual="1"/>
+<Density Value="0.5" Scale="None" Actual="0.5"/>
 <Mass Value="45.528" Scale="milli" Actual="0.045528"/>
 <COM>
 <X Value="0" Scale="None" Actual="0"/>
@@ -2702,8 +2702,8 @@
 <MaxHydroTorque Value="20" Scale="None" Actual="20"/>
 <Magnus>0</Magnus>
 <EnableFluids>False</EnableFluids>
-<Density Value="1" Scale="None" Actual="1"/>
-<Mass Value="17.251" Scale="milli" Actual="0.017251"/>
+<Density Value="57.736" Scale="None" Actual="57.736"/>
+<Mass Value="99.601" Scale="centi" Actual="0.99601"/>
 <COM>
 <X Value="0" Scale="None" Actual="0"/>
 <Y Value="0" Scale="None" Actual="0"/>
@@ -2933,7 +2933,7 @@
 <AttachID>b144f31d-4f8b-41b6-a98c-06f6147552d3</AttachID>
 </Attachments>
 <StimulusTension>
-<ID>b19b4534-abe1-44ed-bdb1-cc65406be07b</ID>
+<ID>c9100b94-9ec2-4744-a093-5d4137fd494e</ID>
 <Type>StimulusTension</Type>
 <AssemblyFile>AnimatGUI.dll</AssemblyFile>
 <ClassName>AnimatGUI.DataObjects.Gains.MuscleGains.StimulusTension</ClassName>
@@ -2948,7 +2948,7 @@
 <IndependentUnits>Membrane Voltage (V)</IndependentUnits>
 <DependentUnits>Contractile Tension (N)</DependentUnits>
 <A Value="-0.05" Scale="milli" Actual="-5e-005"/>
-<B Value="5" Scale="None" Actual="5"/>
+<B Value="0.307" Scale="None" Actual="0.307"/>
 <C Value="121.465" Scale="None" Actual="121.465"/>
 <D Value="-0.000706" Scale="None" Actual="-0.000706"/>
 </StimulusTension>
@@ -3000,7 +3000,7 @@
 <AttachID>a6110599-d6bc-4953-9578-694c26b88645</AttachID>
 </Attachments>
 <StimulusTension>
-<ID>75ed4acb-44dd-4928-9404-f048b64f6b46</ID>
+<ID>46eecada-2d43-4b83-a5ac-bcdf614ccd0d</ID>
 <Type>StimulusTension</Type>
 <AssemblyFile>AnimatGUI.dll</AssemblyFile>
 <ClassName>AnimatGUI.DataObjects.Gains.MuscleGains.StimulusTension</ClassName>
@@ -3015,12 +3015,12 @@
 <IndependentUnits>Membrane Voltage (V)</IndependentUnits>
 <DependentUnits>Contractile Tension (N)</DependentUnits>
 <A Value="-0.05" Scale="milli" Actual="-5e-005"/>
-<B Value="5" Scale="None" Actual="5"/>
+<B Value="0.876" Scale="None" Actual="0.876"/>
 <C Value="100" Scale="None" Actual="100"/>
 <D Value="-0.002" Scale="None" Actual="-0.002"/>
 </StimulusTension>
 <LengthTension>
-<ID>4e8eb1e5-0326-4868-a2bc-de161298395d</ID>
+<ID>38a00e91-2d8f-4b81-b3d6-bed70c860671</ID>
 <Type>LengthTension</Type>
 <AssemblyFile>AnimatGUI.dll</AssemblyFile>
 <ClassName>AnimatGUI.DataObjects.Gains.MuscleGains.LengthTension</ClassName>
@@ -3100,8 +3100,8 @@
 <MaxHydroTorque Value="20" Scale="None" Actual="20"/>
 <Magnus>0</Magnus>
 <EnableFluids>False</EnableFluids>
-<Density Value="1" Scale="None" Actual="1"/>
-<Mass Value="19.857" Scale="milli" Actual="0.019857"/>
+<Density Value="50.159" Scale="None" Actual="50.159"/>
+<Mass Value="99.6" Scale="centi" Actual="0.996"/>
 <COM>
 <X Value="0" Scale="None" Actual="0"/>
 <Y Value="0" Scale="None" Actual="0"/>
@@ -3364,8 +3364,8 @@
 <MaxHydroTorque Value="20" Scale="None" Actual="20"/>
 <Magnus>0</Magnus>
 <EnableFluids>False</EnableFluids>
-<Density Value="1" Scale="None" Actual="1"/>
-<Mass Value="47.948" Scale="milli" Actual="0.047948"/>
+<Density Value="10.386" Scale="None" Actual="10.386"/>
+<Mass Value="49.799" Scale="centi" Actual="0.49799"/>
 <COM>
 <X Value="0" Scale="None" Actual="0"/>
 <Y Value="0" Scale="None" Actual="0"/>
@@ -3950,7 +3950,7 @@
 <AttachID>bfa43522-b5ee-4438-8c12-db601e6ee94f</AttachID>
 </Attachments>
 <StimulusTension>
-<ID>825914c3-4c34-4a4e-bfc5-ebdfe20e52af</ID>
+<ID>ba150293-14dd-48de-9c19-0f8a388fe270</ID>
 <Type>StimulusTension</Type>
 <AssemblyFile>AnimatGUI.dll</AssemblyFile>
 <ClassName>AnimatGUI.DataObjects.Gains.MuscleGains.StimulusTension</ClassName>
@@ -3965,12 +3965,12 @@
 <IndependentUnits>Membrane Voltage (V)</IndependentUnits>
 <DependentUnits>Contractile Tension (N)</DependentUnits>
 <A Value="-0.05" Scale="milli" Actual="-5e-005"/>
-<B Value="5" Scale="None" Actual="5"/>
+<B Value="0.069" Scale="None" Actual="0.069"/>
 <C Value="121.465" Scale="None" Actual="121.465"/>
 <D Value="-0.000159" Scale="None" Actual="-0.000159"/>
 </StimulusTension>
 <LengthTension>
-<ID>fab1d44f-5cd2-4516-aad6-71c1ce4a7767</ID>
+<ID>43bf914e-4401-4260-9476-b43cf2e6a3a2</ID>
 <Type>LengthTension</Type>
 <AssemblyFile>AnimatGUI.dll</AssemblyFile>
 <ClassName>AnimatGUI.DataObjects.Gains.MuscleGains.LengthTension</ClassName>
@@ -3978,20 +3978,20 @@
 <LimitsReadOnly>False</LimitsReadOnly>
 <LimitOutputsReadOnly>False</LimitOutputsReadOnly>
 <UseParentIncomingDataType>True</UseParentIncomingDataType>
-<LowerLimitScale Value="7.362" Scale="milli" Actual="0.007362"/>
-<UpperLimitScale Value="8.998" Scale="milli" Actual="0.008998"/>
+<LowerLimitScale Value="20.4732" Scale="milli" Actual="0.0204732"/>
+<UpperLimitScale Value="22.002" Scale="milli" Actual="0.022002"/>
 <LowerOutputScale Value="0" Scale="None" Actual="0"/>
 <UpperOutputScale Value="1" Scale="None" Actual="1"/>
 <IndependentUnits>Meters</IndependentUnits>
 <DependentUnits>% Isometric Tension Used</DependentUnits>
-<RestingLength Value="20.4732" Scale="milli" Actual="0.0204732"/>
+<RestingLength Value="22.002" Scale="milli" Actual="0.022002"/>
 <Lwidth Value="2.7911" Scale="milli" Actual="0.0027911"/>
 <PeLength Value="90" Scale="None" Actual="90"/>
 <MinPeLength Value="5" Scale="None" Actual="5"/>
 </LengthTension>
 <MaximumTension Value="100" Scale="None" Actual="100"/>
-<Kse Value="0.337" Scale="None" Actual="0.337"/>
-<Kpe Value="0.0057" Scale="None" Actual="0.0057"/>
+<Kse Value="337.025" Scale="None" Actual="337.025"/>
+<Kpe Value="5.7123" Scale="None" Actual="5.7123"/>
 <B Value="0.1725" Scale="None" Actual="0.1725"/>
 <IbDischarge Value="100" Scale="None" Actual="100"/>
 </RigidBody>
@@ -4017,7 +4017,7 @@
 <AttachID>d6a6728c-2b83-4947-8640-c770111d5b9a</AttachID>
 </Attachments>
 <StimulusTension>
-<ID>69b8c9b2-4f7a-4617-a296-23344e2e7747</ID>
+<ID>c9fce208-f472-4f7a-8a70-098262aadebf</ID>
 <Type>StimulusTension</Type>
 <AssemblyFile>AnimatGUI.dll</AssemblyFile>
 <ClassName>AnimatGUI.DataObjects.Gains.MuscleGains.StimulusTension</ClassName>
@@ -4032,12 +4032,12 @@
 <IndependentUnits>Membrane Voltage (V)</IndependentUnits>
 <DependentUnits>Contractile Tension (N)</DependentUnits>
 <A Value="-0.05" Scale="milli" Actual="-5e-005"/>
-<B Value="5" Scale="None" Actual="5"/>
+<B Value="0.591" Scale="None" Actual="0.591"/>
 <C Value="100" Scale="None" Actual="100"/>
 <D Value="-0.0014" Scale="None" Actual="-0.0014"/>
 </StimulusTension>
 <LengthTension>
-<ID>cc0da246-feae-466b-81f9-07813de078c4</ID>
+<ID>c4030385-ee40-4474-b821-081dc87be19e</ID>
 <Type>LengthTension</Type>
 <AssemblyFile>AnimatGUI.dll</AssemblyFile>
 <ClassName>AnimatGUI.DataObjects.Gains.MuscleGains.LengthTension</ClassName>
@@ -4045,20 +4045,20 @@
 <LimitsReadOnly>False</LimitsReadOnly>
 <LimitOutputsReadOnly>False</LimitOutputsReadOnly>
 <UseParentIncomingDataType>True</UseParentIncomingDataType>
-<LowerLimitScale Value="7.497" Scale="milli" Actual="0.007497"/>
-<UpperLimitScale Value="9.163" Scale="milli" Actual="0.009163"/>
+<LowerLimitScale Value="7.5" Scale="milli" Actual="0.0075"/>
+<UpperLimitScale Value="10.2" Scale="milli" Actual="0.0102"/>
 <LowerOutputScale Value="0" Scale="None" Actual="0"/>
 <UpperOutputScale Value="1" Scale="None" Actual="1"/>
 <IndependentUnits>Meters</IndependentUnits>
 <DependentUnits>% Isometric Tension Used</DependentUnits>
-<RestingLength Value="0.0104" Scale="centi" Actual="0.000104"/>
-<Lwidth Value="0.0059" Scale="centi" Actual="5.9e-005"/>
+<RestingLength Value="10.2" Scale="milli" Actual="0.0102"/>
+<Lwidth Value="4.9" Scale="milli" Actual="0.0049"/>
 <PeLength Value="90" Scale="None" Actual="90"/>
 <MinPeLength Value="5" Scale="None" Actual="5"/>
 </LengthTension>
 <MaximumTension Value="100" Scale="None" Actual="100"/>
-<Kse Value="5670.2" Scale="None" Actual="5670.2"/>
-<Kpe Value="96.1048" Scale="None" Actual="96.1048"/>
+<Kse Value="5777.7" Scale="None" Actual="5777.7"/>
+<Kpe Value="97.9271" Scale="None" Actual="97.9271"/>
 <B Value="1.4775" Scale="None" Actual="1.4775"/>
 <IbDischarge Value="100" Scale="None" Actual="100"/>
 </RigidBody>
@@ -4301,7 +4301,7 @@
 <AttachID>49e4fe44-7d34-4878-835d-6b384d96c2ac</AttachID>
 </Attachments>
 <StimulusTension>
-<ID>632ac5eb-b5cc-467d-a1ac-0e644cfdad7e</ID>
+<ID>2b949ddc-5990-442e-9858-16b4ce522304</ID>
 <Type>StimulusTension</Type>
 <AssemblyFile>AnimatGUI.dll</AssemblyFile>
 <ClassName>AnimatGUI.DataObjects.Gains.MuscleGains.StimulusTension</ClassName>
@@ -4316,12 +4316,12 @@
 <IndependentUnits>Membrane Voltage (V)</IndependentUnits>
 <DependentUnits>Contractile Tension (N)</DependentUnits>
 <A Value="-0.05" Scale="milli" Actual="-5e-005"/>
-<B Value="5" Scale="None" Actual="5"/>
+<B Value="2.828" Scale="None" Actual="2.828"/>
 <C Value="121.465" Scale="None" Actual="121.465"/>
 <D Value="-0.0065" Scale="None" Actual="-0.0065"/>
 </StimulusTension>
 <LengthTension>
-<ID>e49e6791-eb62-4d51-968c-28c0696e2760</ID>
+<ID>3ffbb825-e5cf-447f-9891-2a8ae7c1a399</ID>
 <Type>LengthTension</Type>
 <AssemblyFile>AnimatGUI.dll</AssemblyFile>
 <ClassName>AnimatGUI.DataObjects.Gains.MuscleGains.LengthTension</ClassName>
@@ -4329,20 +4329,20 @@
 <LimitsReadOnly>False</LimitsReadOnly>
 <LimitOutputsReadOnly>False</LimitOutputsReadOnly>
 <UseParentIncomingDataType>True</UseParentIncomingDataType>
-<LowerLimitScale Value="6.912" Scale="milli" Actual="0.006912"/>
-<UpperLimitScale Value="8.448" Scale="milli" Actual="0.008448"/>
+<LowerLimitScale Value="13.6" Scale="milli" Actual="0.0136"/>
+<UpperLimitScale Value="15.2" Scale="milli" Actual="0.0152"/>
 <LowerOutputScale Value="0" Scale="None" Actual="0"/>
 <UpperOutputScale Value="1" Scale="None" Actual="1"/>
 <IndependentUnits>Meters</IndependentUnits>
 <DependentUnits>% Isometric Tension Used</DependentUnits>
-<RestingLength Value="0.0126" Scale="milli" Actual="1.26e-005"/>
-<Lwidth Value="0.0019" Scale="milli" Actual="1.9e-006"/>
+<RestingLength Value="15.2" Scale="milli" Actual="0.0152"/>
+<Lwidth Value="2.9" Scale="milli" Actual="0.0029"/>
 <PeLength Value="90" Scale="None" Actual="90"/>
 <MinPeLength Value="5" Scale="None" Actual="5"/>
 </LengthTension>
 <MaximumTension Value="100" Scale="None" Actual="100"/>
-<Kse Value="22500" Scale="None" Actual="22500"/>
-<Kpe Value="380.557" Scale="None" Actual="380.557"/>
+<Kse Value="18600" Scale="None" Actual="18600"/>
+<Kpe Value="315.682" Scale="None" Actual="315.682"/>
 <B Value="7.07" Scale="None" Actual="7.07"/>
 <IbDischarge Value="100" Scale="None" Actual="100"/>
 </RigidBody>
@@ -5191,8 +5191,8 @@
 <Stimuli/>
 <HudItems>
 <HudItem>
-<Name>a966e678-6818-4beb-aacb-227872231ad4</Name>
-<ID>a966e678-6818-4beb-aacb-227872231ad4</ID>
+<Name>9684ce1c-984a-4103-9b0e-d2fdcb9c8b78</Name>
+<ID>9684ce1c-984a-4103-9b0e-d2fdcb9c8b78</ID>
 <Type>HudText</Type>
 <CharSize>30</CharSize>
 <Text>Time: %3.3f</Text>
@@ -5286,7 +5286,7 @@
 <DockingConfig>&lt;?xml version="1.0" encoding="us-ascii"?&gt;
 &lt;!-- DotNetMagic, The User Interface library for .NET (www.crownwood.net) --&gt;
 &lt;!-- Modifying this generated file will probably render it invalid --&gt;
-&lt;DockingConfig FormatVersion="10" InsideFill="False" InnerMinimum="20, 20" SavedAt="06/04/2020 18:57:34"&gt;
+&lt;DockingConfig FormatVersion="10" InsideFill="False" InnerMinimum="20, 20" SavedAt="06/05/2020 17:04:32"&gt;
   &lt;Content Name="Workspace" Visible="True" Docked="True" AutoHidden="False" CaptionBar="True" CloseButton="False" DisplaySize="535, 150" DisplayLocation="150, 150" AutoHideSize="200, 150" FloatingSize="150, 150" FullTitle="Workspace" Office2003BackColor="Base" UniqueName="" Office2007BackColor="Base" MediaPlayerBackColor="Base"&gt;
     &lt;DefaultRestore Type="Crownwood.DotNetMagic.Docking.RestoreContentState"&gt;
       &lt;Content Name="Workspace" UniqueName="" /&gt;

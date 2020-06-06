@@ -5,7 +5,6 @@ F_max = 1500; %newtons
 
 % F_max = 0.549;  % ILI
 % F_max = 2.828   % VL
-% F_max = 2.828   % PAT
 % F_max = 0.069   % EHL
 % F_max = 0.876   % BFA
 % F_max = 0.307   % POP
@@ -20,20 +19,12 @@ min_length = .078; %meters
 % min_length = 0.01273803448
 % 
 % % VL
-% max_length = 0.01259528713
-% min_length = 0.01361701386
-%
-% % PAT
 % max_length = 0.01518372296
 % min_length = 0.01361701386
-% 
-% % EHL
-% max_length = 0.01208694816
-% min_length = 0.01361569138
 %
-% % EHL wrapping point 
-% max_length = 20.47324651
-% min_length = 22.00198973
+% % EHL
+% max_length = 0.02047324651
+% min_length = 0.02200198973
 % 
 % % BFA
 % max_length = 0.01728694827
@@ -44,8 +35,8 @@ min_length = .078; %meters
 % min_length = 0.004000676805
 %
 % % SOL
-% max_length = 0.01042294598
-% min_length = 0.007208758752
+% max_length = 0.01022898844
+% min_length = 0.007525846796
 
 %% Muscle Parameters built on huristics that could see some change
 
