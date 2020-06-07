@@ -307,7 +307,7 @@
 <Magnus>0</Magnus>
 <EnableFluids>False</EnableFluids>
 <Density Value="0.5" Scale="milli" Actual="0.0005"/>
-<Mass Value="57.993" Scale="milli" Actual="0.057993"/>
+<Mass Value="0.375" Scale="milli" Actual="0.000375"/>
 <COM>
 <X Value="0" Scale="None" Actual="0"/>
 <Y Value="0" Scale="None" Actual="0"/>
@@ -439,7 +439,7 @@
 <Magnus>0</Magnus>
 <EnableFluids>False</EnableFluids>
 <Density Value="0.5" Scale="None" Actual="0.5"/>
-<Mass Value="58" Scale="centi" Actual="0.58"/>
+<Mass Value="8.626" Scale="milli" Actual="0.008626"/>
 <COM>
 <X Value="0" Scale="None" Actual="0"/>
 <Y Value="0" Scale="None" Actual="0"/>
@@ -1045,7 +1045,7 @@
 <Magnus>0</Magnus>
 <EnableFluids>False</EnableFluids>
 <Density Value="0.5" Scale="None" Actual="0.5"/>
-<Mass Value="58" Scale="centi" Actual="0.58"/>
+<Mass Value="9.928" Scale="milli" Actual="0.009928"/>
 <COM>
 <X Value="0" Scale="None" Actual="0"/>
 <Y Value="0" Scale="None" Actual="0"/>
@@ -1309,7 +1309,7 @@
 <Magnus>0</Magnus>
 <EnableFluids>False</EnableFluids>
 <Density Value="0.5" Scale="None" Actual="0.5"/>
-<Mass Value="57.998" Scale="centi" Actual="0.57998"/>
+<Mass Value="23.974" Scale="milli" Actual="0.023974"/>
 <COM>
 <X Value="0" Scale="None" Actual="0"/>
 <Y Value="0" Scale="None" Actual="0"/>
@@ -2703,7 +2703,7 @@
 <Magnus>0</Magnus>
 <EnableFluids>False</EnableFluids>
 <Density Value="0.5" Scale="None" Actual="0.5"/>
-<Mass Value="58" Scale="centi" Actual="0.58"/>
+<Mass Value="8.626" Scale="milli" Actual="0.008626"/>
 <COM>
 <X Value="0" Scale="None" Actual="0"/>
 <Y Value="0" Scale="None" Actual="0"/>
@@ -3101,7 +3101,7 @@
 <Magnus>0</Magnus>
 <EnableFluids>False</EnableFluids>
 <Density Value="0.5" Scale="None" Actual="0.5"/>
-<Mass Value="58" Scale="centi" Actual="0.58"/>
+<Mass Value="9.928" Scale="milli" Actual="0.009928"/>
 <COM>
 <X Value="0" Scale="None" Actual="0"/>
 <Y Value="0" Scale="None" Actual="0"/>
@@ -3365,7 +3365,7 @@
 <Magnus>0</Magnus>
 <EnableFluids>False</EnableFluids>
 <Density Value="0.5" Scale="None" Actual="0.5"/>
-<Mass Value="57.998" Scale="centi" Actual="0.57998"/>
+<Mass Value="23.974" Scale="milli" Actual="0.023974"/>
 <COM>
 <X Value="0" Scale="None" Actual="0"/>
 <Y Value="0" Scale="None" Actual="0"/>
@@ -6132,8 +6132,8 @@
 </Stimuli>
 <HudItems>
 <HudItem>
-<Name>6401c6c6-45e3-4245-a2f9-10d2aec40e6f</Name>
-<ID>6401c6c6-45e3-4245-a2f9-10d2aec40e6f</ID>
+<Name>bd507295-ea1d-41c0-b482-a93915956f22</Name>
+<ID>bd507295-ea1d-41c0-b482-a93915956f22</ID>
 <Type>HudText</Type>
 <CharSize>30</CharSize>
 <Text>Time: %3.3f</Text>
@@ -6227,7 +6227,7 @@
 <DockingConfig>&lt;?xml version="1.0" encoding="us-ascii"?&gt;
 &lt;!-- DotNetMagic, The User Interface library for .NET (www.crownwood.net) --&gt;
 &lt;!-- Modifying this generated file will probably render it invalid --&gt;
-&lt;DockingConfig FormatVersion="10" InsideFill="False" InnerMinimum="20, 20" SavedAt="06/07/2020 15:28:57"&gt;
+&lt;DockingConfig FormatVersion="10" InsideFill="False" InnerMinimum="20, 20" SavedAt="06/07/2020 15:43:25"&gt;
   &lt;Content Name="Workspace" Visible="True" Docked="True" AutoHidden="False" CaptionBar="True" CloseButton="False" DisplaySize="327, 150" DisplayLocation="150, 150" AutoHideSize="200, 150" FloatingSize="150, 150" FullTitle="Workspace" Office2003BackColor="Base" UniqueName="" Office2007BackColor="Base" MediaPlayerBackColor="Base"&gt;
     &lt;DefaultRestore Type="Crownwood.DotNetMagic.Docking.RestoreContentState"&gt;
       &lt;Content Name="Workspace" UniqueName="" /&gt;
