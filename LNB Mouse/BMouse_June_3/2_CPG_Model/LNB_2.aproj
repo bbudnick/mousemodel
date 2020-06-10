@@ -307,7 +307,7 @@
 <Magnus>0</Magnus>
 <EnableFluids>False</EnableFluids>
 <Density Value="0.75" Scale="None" Actual="0.75"/>
-<Mass Value="7.955" Scale="None" Actual="7.955"/>
+<Mass Value="56.319" Scale="centi" Actual="0.56319"/>
 <COM>
 <X Value="0" Scale="None" Actual="0"/>
 <Y Value="0" Scale="None" Actual="0"/>
@@ -439,7 +439,7 @@
 <Magnus>0</Magnus>
 <EnableFluids>False</EnableFluids>
 <Density Value="2.065" Scale="None" Actual="2.065"/>
-<Mass Value="3.536" Scale="None" Actual="3.536"/>
+<Mass Value="35.623" Scale="milli" Actual="0.035623"/>
 <COM>
 <X Value="0" Scale="None" Actual="0"/>
 <Y Value="0" Scale="None" Actual="0"/>
@@ -1045,7 +1045,7 @@
 <Magnus>0</Magnus>
 <EnableFluids>False</EnableFluids>
 <Density Value="0.6175" Scale="None" Actual="0.6175"/>
-<Mass Value="83.448" Scale="centi" Actual="0.83448"/>
+<Mass Value="12.262" Scale="milli" Actual="0.012262"/>
 <COM>
 <X Value="0" Scale="None" Actual="0"/>
 <Y Value="0" Scale="None" Actual="0"/>
@@ -1309,7 +1309,7 @@
 <Magnus>0</Magnus>
 <EnableFluids>False</EnableFluids>
 <Density Value="0.75" Scale="None" Actual="0.75"/>
-<Mass Value="39.274" Scale="centi" Actual="0.39274"/>
+<Mass Value="35.961" Scale="milli" Actual="0.035961"/>
 <COM>
 <X Value="0" Scale="None" Actual="0"/>
 <Y Value="0" Scale="None" Actual="0"/>
@@ -2703,7 +2703,7 @@
 <Magnus>0</Magnus>
 <EnableFluids>False</EnableFluids>
 <Density Value="2.065" Scale="None" Actual="2.065"/>
-<Mass Value="3.536" Scale="None" Actual="3.536"/>
+<Mass Value="35.623" Scale="milli" Actual="0.035623"/>
 <COM>
 <X Value="0" Scale="None" Actual="0"/>
 <Y Value="0" Scale="None" Actual="0"/>
@@ -3101,7 +3101,7 @@
 <Magnus>0</Magnus>
 <EnableFluids>False</EnableFluids>
 <Density Value="0.617" Scale="None" Actual="0.617"/>
-<Mass Value="83.448" Scale="centi" Actual="0.83448"/>
+<Mass Value="12.252" Scale="milli" Actual="0.012252"/>
 <COM>
 <X Value="0" Scale="None" Actual="0"/>
 <Y Value="0" Scale="None" Actual="0"/>
@@ -3365,7 +3365,7 @@
 <Magnus>0</Magnus>
 <EnableFluids>False</EnableFluids>
 <Density Value="0.75" Scale="None" Actual="0.75"/>
-<Mass Value="39.274" Scale="centi" Actual="0.39274"/>
+<Mass Value="35.961" Scale="milli" Actual="0.035961"/>
 <COM>
 <X Value="0" Scale="None" Actual="0"/>
 <Y Value="0" Scale="None" Actual="0"/>
@@ -5913,10 +5913,10 @@
 </LocalPosition>
 <Rotation>
 <X Value="-90.012" Scale="None" Actual="-90.012"/>
-<Y Value="0" Scale="None" Actual="0"/>
+<Y Value="1.556" Scale="milli" Actual="0.001556"/>
 <Z Value="0" Scale="None" Actual="0"/>
 </Rotation>
-<LocalMatrix>1,-0,0,0,-0,-0.000203653,-1,0,0,1,-0.000203653,0,0,0,0,1</LocalMatrix>
+<LocalMatrix>1,-2.71503e-005,5.52924e-009,0,-0,-0.000203653,-1,0,2.71503e-005,1,-0.000203653,0,0,0,0,1</LocalMatrix>
 <DraggerSize Value="-1" Scale="None" Actual="-1"/>
 <Type>Plane</Type>
 <PartType>AnimatGUI.DataObjects.Physical.Bodies.Plane</PartType>
@@ -6132,8 +6132,8 @@
 </Stimuli>
 <HudItems>
 <HudItem>
-<Name>50ac2738-c33d-4520-a2b4-9975025aea21</Name>
-<ID>50ac2738-c33d-4520-a2b4-9975025aea21</ID>
+<Name>ac283367-321c-40a8-9e12-3edf4c830c78</Name>
+<ID>ac283367-321c-40a8-9e12-3edf4c830c78</ID>
 <Type>HudText</Type>
 <CharSize>30</CharSize>
 <Text>Time: %3.3f</Text>
@@ -6227,7 +6227,7 @@
 <DockingConfig>&lt;?xml version="1.0" encoding="us-ascii"?&gt;
 &lt;!-- DotNetMagic, The User Interface library for .NET (www.crownwood.net) --&gt;
 &lt;!-- Modifying this generated file will probably render it invalid --&gt;
-&lt;DockingConfig FormatVersion="10" InsideFill="False" InnerMinimum="20, 20" SavedAt="06/08/2020 17:37:08"&gt;
+&lt;DockingConfig FormatVersion="10" InsideFill="False" InnerMinimum="20, 20" SavedAt="06/09/2020 14:35:58"&gt;
   &lt;Content Name="Workspace" Visible="True" Docked="True" AutoHidden="False" CaptionBar="True" CloseButton="False" DisplaySize="327, 150" DisplayLocation="150, 150" AutoHideSize="200, 150" FloatingSize="150, 150" FullTitle="Workspace" Office2003BackColor="Base" UniqueName="" Office2007BackColor="Base" MediaPlayerBackColor="Base"&gt;
     &lt;DefaultRestore Type="Crownwood.DotNetMagic.Docking.RestoreContentState"&gt;
       &lt;Content Name="Workspace" UniqueName="" /&gt;
@@ -6282,7 +6282,7 @@
       &lt;Child Type="null" /&gt;
     &lt;/FloatingRestore&gt;
   &lt;/Content&gt;
-  &lt;Content Name="Properties" Visible="True" Docked="True" AutoHidden="False" CaptionBar="True" CloseButton="False" DisplaySize="422, 150" DisplayLocation="150, 150" AutoHideSize="150, 150" FloatingSize="150, 150" FullTitle="Properties" Office2003BackColor="Base" UniqueName="" Office2007BackColor="Base" MediaPlayerBackColor="Base"&gt;
+  &lt;Content Name="Properties" Visible="True" Docked="True" AutoHidden="False" CaptionBar="True" CloseButton="False" DisplaySize="41, 150" DisplayLocation="150, 150" AutoHideSize="150, 150" FloatingSize="150, 150" FullTitle="Properties" Office2003BackColor="Base" UniqueName="" Office2007BackColor="Base" MediaPlayerBackColor="Base"&gt;
     &lt;DefaultRestore Type="Crownwood.DotNetMagic.Docking.RestoreContentState"&gt;
       &lt;Content Name="Properties" UniqueName="" /&gt;
       &lt;State Value="DockLeft" /&gt;
@@ -6303,7 +6303,7 @@
     &lt;DockingRestore Type="Crownwood.DotNetMagic.Docking.RestoreContentDockingAffinity"&gt;
       &lt;Content Name="Properties" UniqueName="" /&gt;
       &lt;State Value="DockRight" /&gt;
-      &lt;Position Size="422, 150" Location="150, 150" /&gt;
+      &lt;Position Size="41, 150" Location="150, 150" /&gt;
       &lt;Best Count="1"&gt;
         &lt;Item Name="Properties" /&gt;
       &lt;/Best&gt;
@@ -6697,7 +6697,7 @@
 &lt;TabbedGroups FormatVersion="1" ActiveLeaf="7"&gt;
   &lt;CustomGlobalData /&gt;
   &lt;Sequence Count="2" Unique="0" Space="100" Direction="Horizontal"&gt;
-    &lt;Leaf Count="7" Unique="7" Space="42.142857142857142857142857140"&gt;
+    &lt;Leaf Count="7" Unique="7" Space="88.91820580474934036939313984"&gt;
       &lt;Page Title="Sim Window" ImageList="True" ImageIndex="0" Selected="True" Control="null" UniqueName=""&gt;
         &lt;CustomPageData&gt;&lt;![CDATA[&lt;TabPage&gt;
 &lt;Form&gt;
@@ -6790,7 +6790,7 @@
 ]]&gt;&lt;/CustomPageData&gt;
       &lt;/Page&gt;
     &lt;/Leaf&gt;
-    &lt;Leaf Count="3" Unique="7" Space="57.857142857142857142857142860"&gt;
+    &lt;Leaf Count="3" Unique="7" Space="11.081794195250659630606860160"&gt;
       &lt;Page Title="LH_Control" ImageList="True" ImageIndex="2" Selected="False" Control="null" UniqueName=""&gt;
         &lt;CustomPageData&gt;&lt;![CDATA[&lt;TabPage&gt;
 &lt;Form&gt;

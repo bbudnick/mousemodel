@@ -6,7 +6,7 @@
 <Physics>Vortex</Physics>
 <LibraryVersion>Double</LibraryVersion>
 <Simulation>
-<ProjectPath>C:\Mouse_test_new\Lindie_mouse\LNB Mouse\LNB_2\</ProjectPath>
+<ProjectPath>C:\Users\bhele\Documents\Neuromechanical Modeling\Mouse Model\Mouse Project\mousemodel\LNB Mouse\LMouse_June_2\LNB_2\</ProjectPath>
 <AnimatModule>VortexAnimatSim_VC10.dll</AnimatModule>
 <UpdateDataInterval>250</UpdateDataInterval>
 <StartPaused>False</StartPaused>
@@ -278,7 +278,7 @@
 <Y Value="0" Scale="None" Actual="0"/>
 <Z Value="0" Scale="None" Actual="0"/>
 </Rotation>
-<LocalMatrix>1,0,0,0,0,1,0,0,0,0,1,0,0,0.4,0,1</LocalMatrix>
+<LocalMatrix>1,0,0,0,-0,1,0,0,0,-0,1,0,0,0.4,0,1</LocalMatrix>
 <DraggerSize Value="-1" Scale="None" Actual="-1"/>
 <Type>Box</Type>
 <PartType>AnimatGUI.DataObjects.Physical.Bodies.Box</PartType>
@@ -410,7 +410,7 @@
 <Y Value="0" Scale="None" Actual="0"/>
 <Z Value="0" Scale="None" Actual="0"/>
 </Rotation>
-<LocalMatrix>0.984244,0.176817,3.18208e-006,0,-0.176817,0.984244,3.60175e-005,0,3.23658e-006,-3.60126e-005,1,0,-0.0103792,-0.0666199,-0.0566025,1</LocalMatrix>
+<LocalMatrix>1,0,0,0,-0,1,0,0,0,-0,1,0,-0.0225,-0.0677,-0.0566,1</LocalMatrix>
 <DraggerSize Value="-1" Scale="None" Actual="-1"/>
 <Type>Box</Type>
 <PartType>AnimatGUI.DataObjects.Physical.Bodies.Box</PartType>
@@ -1016,7 +1016,7 @@
 <Y Value="0" Scale="None" Actual="0"/>
 <Z Value="0" Scale="None" Actual="0"/>
 </Rotation>
-<LocalMatrix>0.766045,-0.642787,4.77522e-005,0,0.642787,0.766045,-0.00013089,0,4.75541e-005,0.000130962,1,0,-0.0547141,-0.124156,1.11414e-005,1</LocalMatrix>
+<LocalMatrix>1,0,0,0,-0,1,0,0,0,-0,1,0,0,-0.14407,0,1</LocalMatrix>
 <DraggerSize Value="-1" Scale="None" Actual="-1"/>
 <Type>Box</Type>
 <PartType>AnimatGUI.DataObjects.Physical.Bodies.Box</PartType>
@@ -1280,7 +1280,7 @@
 <Y Value="0" Scale="None" Actual="0"/>
 <Z Value="0" Scale="None" Actual="0"/>
 </Rotation>
-<LocalMatrix>0.871309,-0.490735,2.62881e-005,0,0.490735,0.871309,-9.99356e-005,0,2.61369e-005,9.99752e-005,1,0,0.0408379,-0.116843,2.10415e-006,1</LocalMatrix>
+<LocalMatrix>1,0,0,0,-0,1,0,0,0,-0,1,0,0.05115,-0.09272,0,1</LocalMatrix>
 <DraggerSize Value="-1" Scale="None" Actual="-1"/>
 <Type>Box</Type>
 <PartType>AnimatGUI.DataObjects.Physical.Bodies.Box</PartType>
@@ -2256,7 +2256,7 @@
 <Y Value="0" Scale="None" Actual="0"/>
 <Z Value="0" Scale="None" Actual="0"/>
 </Rotation>
-<LocalMatrix>0.987437,0.158013,2.53453e-006,0,-0.158013,0.987437,3.21867e-005,0,2.58323e-006,-3.21829e-005,1,0,-0.0116682,-0.0668388,0.0565978,1</LocalMatrix>
+<LocalMatrix>1,0,0,0,-0,1,0,0,0,-0,1,0,-0.0225,-0.0677,0.0566,1</LocalMatrix>
 <DraggerSize Value="-1" Scale="None" Actual="-1"/>
 <Type>Box</Type>
 <PartType>AnimatGUI.DataObjects.Physical.Bodies.Box</PartType>
@@ -2654,7 +2654,7 @@
 <Y Value="0" Scale="None" Actual="0"/>
 <Z Value="0" Scale="None" Actual="0"/>
 </Rotation>
-<LocalMatrix>0.766045,-0.642786,4.77521e-005,0,0.642786,0.766045,-0.00013089,0,4.7554e-005,0.000130962,1,0,-0.054714,-0.124156,1.11414e-005,1</LocalMatrix>
+<LocalMatrix>1,0,0,0,-0,1,0,0,0,-0,1,0,0,-0.14407,0,1</LocalMatrix>
 <DraggerSize Value="-1" Scale="None" Actual="-1"/>
 <Type>Box</Type>
 <PartType>AnimatGUI.DataObjects.Physical.Bodies.Box</PartType>
@@ -2918,7 +2918,7 @@
 <Y Value="0" Scale="None" Actual="0"/>
 <Z Value="0" Scale="None" Actual="0"/>
 </Rotation>
-<LocalMatrix>0.997825,-0.065924,4.53246e-007,0,0.065924,0.997825,-1.34274e-005,0,4.32928e-007,1.34281e-005,1,0,0.0505377,-0.0960755,1.25235e-007,1</LocalMatrix>
+<LocalMatrix>1,0,0,0,-0,1,0,0,0,-0,1,0,0.05115,-0.09272,0,1</LocalMatrix>
 <DraggerSize Value="-1" Scale="None" Actual="-1"/>
 <Type>Box</Type>
 <PartType>AnimatGUI.DataObjects.Physical.Bodies.Box</PartType>
@@ -34359,8 +34359,8 @@
 <Simulation>0</Simulation>
 </Transparencies>
 <IsVisible>True</IsVisible>
-<Ambient Red="0" Green="1" Blue="0" Alpha="1"/>
-<Diffuse Red="0" Green="1" Blue="0" Alpha="1"/>
+<Ambient Red="0" Green="0.25098" Blue="0" Alpha="1"/>
+<Diffuse Red="0" Green="0.25098" Blue="0" Alpha="1"/>
 <Specular Red="0.25098" Green="0.25098" Blue="0.25098" Alpha="1"/>
 <Shininess>64</Shininess>
 <Texture/>
@@ -34374,7 +34374,7 @@
 <Y Value="0" Scale="None" Actual="0"/>
 <Z Value="0" Scale="None" Actual="0"/>
 </Rotation>
-<LocalMatrix>1,0,0,0,0,-0.000203653,-1,0,0,1,-0.000203653,0,0,0,0,1</LocalMatrix>
+<LocalMatrix>1,-0,0,0,-0,-0.000203653,-1,0,0,1,-0.000203653,0,0,0,0,1</LocalMatrix>
 <DraggerSize Value="-1" Scale="None" Actual="-1"/>
 <Type>Plane</Type>
 <PartType>AnimatGUI.DataObjects.Physical.Bodies.Plane</PartType>
@@ -34560,8 +34560,8 @@
 <Stimuli/>
 <HudItems>
 <HudItem>
-<Name>17a58517-292e-4aa9-b83a-600cd776f47c</Name>
-<ID>17a58517-292e-4aa9-b83a-600cd776f47c</ID>
+<Name>9dc9195d-10e0-4783-96ce-1bd3beb79b83</Name>
+<ID>9dc9195d-10e0-4783-96ce-1bd3beb79b83</ID>
 <Type>HudText</Type>
 <CharSize>30</CharSize>
 <Text>Time: %3.3f</Text>
@@ -34599,9 +34599,9 @@
 <AutomaticTimeScale>True</AutomaticTimeScale>
 <DivisionMarkFactor>4</DivisionMarkFactor>
 <Divisions>10</Divisions>
-<MajorInterval>2</MajorInterval>
+<MajorInterval>500</MajorInterval>
 <MiddleMarkFactor>3</MiddleMarkFactor>
-<TimeScale>Seconds</TimeScale>
+<TimeScale>MilliSeconds</TimeScale>
 </Form>
 <Form>
 <ID>f581b419-df72-4888-9a27-d902cb0bfb13</ID>
@@ -34655,7 +34655,7 @@
 <DockingConfig>&lt;?xml version="1.0" encoding="us-ascii"?&gt;
 &lt;!-- DotNetMagic, The User Interface library for .NET (www.crownwood.net) --&gt;
 &lt;!-- Modifying this generated file will probably render it invalid --&gt;
-&lt;DockingConfig FormatVersion="10" InsideFill="False" InnerMinimum="20, 20" SavedAt="06/01/2020 21:23:47"&gt;
+&lt;DockingConfig FormatVersion="10" InsideFill="False" InnerMinimum="20, 20" SavedAt="06/09/2020 14:28:36"&gt;
   &lt;Content Name="Workspace" Visible="True" Docked="True" AutoHidden="False" CaptionBar="True" CloseButton="False" DisplaySize="471, 150" DisplayLocation="150, 150" AutoHideSize="200, 150" FloatingSize="150, 150" FullTitle="Workspace" Office2003BackColor="Base" UniqueName="" Office2007BackColor="Base" MediaPlayerBackColor="Base"&gt;
     &lt;DefaultRestore Type="Crownwood.DotNetMagic.Docking.RestoreContentState"&gt;
       &lt;Content Name="Workspace" UniqueName="" /&gt;

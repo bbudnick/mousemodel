@@ -32847,8 +32847,8 @@
 <Simulation>0</Simulation>
 </Transparencies>
 <IsVisible>True</IsVisible>
-<Ambient Red="0" Green="1" Blue="0" Alpha="1"/>
-<Diffuse Red="0" Green="1" Blue="0" Alpha="1"/>
+<Ambient Red="0" Green="0.25098" Blue="0" Alpha="1"/>
+<Diffuse Red="0" Green="0.25098" Blue="0" Alpha="1"/>
 <Specular Red="0.25098" Green="0.25098" Blue="0.25098" Alpha="1"/>
 <Shininess>64</Shininess>
 <Texture/>
@@ -32862,7 +32862,7 @@
 <Y Value="6.415" Scale="None" Actual="6.415"/>
 <Z Value="-1.94" Scale="None" Actual="-1.94"/>
 </Rotation>
-<LocalMatrix>0.993169,-0.116684,2.37666e-005,0,0.0336406,0.286141,-0.957597,0,0.111729,0.951056,0.288112,0,0,0,0,1</LocalMatrix>
+<LocalMatrix>0.993169,-0.116681,6.59603e-005,0,0.0336406,0.285802,-0.957698,0,0.111726,0.951159,0.287775,0,0,0,0,1</LocalMatrix>
 <DraggerSize Value="-1" Scale="None" Actual="-1"/>
 <Type>Plane</Type>
 <PartType>AnimatGUI.DataObjects.Physical.Bodies.Plane</PartType>
@@ -33048,8 +33048,8 @@
 <Stimuli/>
 <HudItems>
 <HudItem>
-<Name>dc82296a-5e8f-47b6-b7c4-713afcae44f4</Name>
-<ID>dc82296a-5e8f-47b6-b7c4-713afcae44f4</ID>
+<Name>7531aba0-319e-4ba5-a95c-5db47ab2cd1f</Name>
+<ID>7531aba0-319e-4ba5-a95c-5db47ab2cd1f</ID>
 <Type>HudText</Type>
 <CharSize>30</CharSize>
 <Text>Time: %3.3f</Text>
@@ -33087,9 +33087,9 @@
 <AutomaticTimeScale>True</AutomaticTimeScale>
 <DivisionMarkFactor>4</DivisionMarkFactor>
 <Divisions>10</Divisions>
-<MajorInterval>1</MajorInterval>
+<MajorInterval>500</MajorInterval>
 <MiddleMarkFactor>3</MiddleMarkFactor>
-<TimeScale>Seconds</TimeScale>
+<TimeScale>MilliSeconds</TimeScale>
 </Form>
 <Form>
 <ID>f581b419-df72-4888-9a27-d902cb0bfb13</ID>
@@ -33143,7 +33143,7 @@
 <DockingConfig>&lt;?xml version="1.0" encoding="us-ascii"?&gt;
 &lt;!-- DotNetMagic, The User Interface library for .NET (www.crownwood.net) --&gt;
 &lt;!-- Modifying this generated file will probably render it invalid --&gt;
-&lt;DockingConfig FormatVersion="10" InsideFill="False" InnerMinimum="20, 20" SavedAt="06/01/2020 13:32:14"&gt;
+&lt;DockingConfig FormatVersion="10" InsideFill="False" InnerMinimum="20, 20" SavedAt="06/09/2020 14:16:19"&gt;
   &lt;Content Name="Workspace" Visible="True" Docked="True" AutoHidden="False" CaptionBar="True" CloseButton="False" DisplaySize="404, 150" DisplayLocation="150, 150" AutoHideSize="200, 150" FloatingSize="150, 150" FullTitle="Workspace" Office2003BackColor="Base" UniqueName="" Office2007BackColor="Base" MediaPlayerBackColor="Base"&gt;
     &lt;DefaultRestore Type="Crownwood.DotNetMagic.Docking.RestoreContentState"&gt;
       &lt;Content Name="Workspace" UniqueName="" /&gt;
@@ -33613,7 +33613,7 @@
 &lt;TabbedGroups FormatVersion="1" ActiveLeaf="7"&gt;
   &lt;CustomGlobalData /&gt;
   &lt;Sequence Count="2" Unique="0" Space="100" Direction="Horizontal"&gt;
-    &lt;Leaf Count="7" Unique="7" Space="50.062656641604010025062656640"&gt;
+    &lt;Leaf Count="7" Unique="7" Space="81.23393316195372750642673522"&gt;
       &lt;Page Title="Rat Body" ImageList="True" ImageIndex="0" Selected="True" Control="null" UniqueName=""&gt;
         &lt;CustomPageData&gt;&lt;![CDATA[&lt;TabPage&gt;
 &lt;Form&gt;
@@ -33708,7 +33708,7 @@
 ]]&gt;&lt;/CustomPageData&gt;
       &lt;/Page&gt;
     &lt;/Leaf&gt;
-    &lt;Leaf Count="2" Unique="7" Space="49.937343358395989974937343360"&gt;
+    &lt;Leaf Count="2" Unique="7" Space="18.766066838046272493573264780"&gt;
       &lt;Page Title="LH_Control" ImageList="True" ImageIndex="2" Selected="False" Control="null" UniqueName=""&gt;
         &lt;CustomPageData&gt;&lt;![CDATA[&lt;TabPage&gt;
 &lt;Form&gt;
