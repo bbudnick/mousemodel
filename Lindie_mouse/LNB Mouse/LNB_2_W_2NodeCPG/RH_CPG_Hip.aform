@@ -7,11 +7,11 @@
 <ClassName>LicensedAnimatGUI.Forms.Charts.LineChart</ClassName>
 <AutoCollectInterval>True</AutoCollectInterval>
 <CollectDataInterval Value="0.1" Scale="milli" Actual="0.0001"/>
-<CollectTimeWindow Value="11" Scale="None" Actual="11"/>
+<CollectTimeWindow Value="6" Scale="None" Actual="6"/>
 <UpdateDataInterval Value="200" Scale="milli" Actual="0.2"/>
 <SetStartEndTime>True</SetStartEndTime>
 <CollectStartTime Value="0" Scale="None" Actual="0"/>
-<CollectEndTime Value="10" Scale="None" Actual="10"/>
+<CollectEndTime Value="5" Scale="None" Actual="5"/>
 <AxisList>
 <Axis>
 <AssemblyFile>LicensedAnimatGUI.dll</AssemblyFile>
@@ -66,6 +66,24 @@
 <DataColumn>
 <AssemblyFile>LicensedAnimatGUI.dll</AssemblyFile>
 <ClassName>LicensedAnimatGUI.DataObjects.Charting.Pro2DColumn</ClassName>
+<Name>RH_BFA</Name>
+<ID>212ad6e5-5b28-4c9a-be35-038fd5682270</ID>
+<DataItemAssemblyFile>AnimatGUI.dll</DataItemAssemblyFile>
+<DataItemClassName>AnimatGUI.DataObjects.Physical.Bodies.LinearHillMuscle</DataItemClassName>
+<StructureID>6a59be4a-7066-4cb0-9456-90c5a59794c5</StructureID>
+<DataItemID>280600b8-6cc9-4986-aa80-38c648f1a06d</DataItemID>
+<SelectedDataType>MuscleLength</SelectedDataType>
+<DataSubSet>7</DataSubSet>
+<PrevDataSubset>7</PrevDataSubset>
+<UseIncomingDataType>False</UseIncomingDataType>
+<LineType>MediumSolid</LineType>
+<PointType>Plus</PointType>
+<PlotMethodType>Line</PlotMethodType>
+<LineColor>-16711936</LineColor>
+</DataColumn>
+<DataColumn>
+<AssemblyFile>LicensedAnimatGUI.dll</AssemblyFile>
+<ClassName>LicensedAnimatGUI.DataObjects.Charting.Pro2DColumn</ClassName>
 <Name>RH_ILI</Name>
 <ID>ff2bf454-6fcd-48ee-843d-61994ed9bf49</ID>
 <DataItemAssemblyFile>AnimatGUI.dll</DataItemAssemblyFile>
@@ -73,8 +91,8 @@
 <StructureID>6a59be4a-7066-4cb0-9456-90c5a59794c5</StructureID>
 <DataItemID>341e97a9-5197-4ceb-b7f5-41b2bb9cbfc7</DataItemID>
 <SelectedDataType>MuscleLength</SelectedDataType>
-<DataSubSet>6</DataSubSet>
-<PrevDataSubset>6</PrevDataSubset>
+<DataSubSet>8</DataSubSet>
+<PrevDataSubset>8</PrevDataSubset>
 <UseIncomingDataType>False</UseIncomingDataType>
 <LineType>MediumSolid</LineType>
 <PointType>Plus</PointType>
@@ -106,6 +124,24 @@
 <PointType>Plus</PointType>
 <PlotMethodType>Line</PlotMethodType>
 <LineColor>-23296</LineColor>
+</DataColumn>
+<DataColumn>
+<AssemblyFile>LicensedAnimatGUI.dll</AssemblyFile>
+<ClassName>LicensedAnimatGUI.DataObjects.Charting.Pro2DColumn</ClassName>
+<Name>RH_BFA</Name>
+<ID>66136d7b-31b0-4184-bf7a-fc86effc2f53</ID>
+<DataItemAssemblyFile>AnimatGUI.dll</DataItemAssemblyFile>
+<DataItemClassName>AnimatGUI.DataObjects.Physical.Bodies.LinearHillMuscle</DataItemClassName>
+<StructureID>6a59be4a-7066-4cb0-9456-90c5a59794c5</StructureID>
+<DataItemID>280600b8-6cc9-4986-aa80-38c648f1a06d</DataItemID>
+<SelectedDataType>Tension</SelectedDataType>
+<DataSubSet>6</DataSubSet>
+<PrevDataSubset>6</PrevDataSubset>
+<UseIncomingDataType>False</UseIncomingDataType>
+<LineType>MediumSolid</LineType>
+<PointType>Plus</PointType>
+<PlotMethodType>Line</PlotMethodType>
+<LineColor>-65536</LineColor>
 </DataColumn>
 </DataColumns>
 </Axis>
@@ -156,7 +192,7 @@
 <Axis>
 <AssemblyFile>LicensedAnimatGUI.dll</AssemblyFile>
 <ClassName>LicensedAnimatGUI.DataObjects.Charting.Pro2DAxis</ClassName>
-<Name>RH_Hip_Rotation</Name>
+<Name>RH_Hip_Rotation_Deg</Name>
 <WorkingAxis>0</WorkingAxis>
 <DataColumns>
 <DataColumn>
@@ -182,8 +218,8 @@
 </AxisList>
 <SaveDataWhenClosed>False</SaveDataWhenClosed>
 <UpdateChartAtEnd>True</UpdateChartAtEnd>
-<PointsToKeep>110000</PointsToKeep>
+<PointsToKeep>60000</PointsToKeep>
 <YAxisOffset>0</YAxisOffset>
-<GraphConfig ByteCount="9055"/>
+<GraphConfig ByteCount="9073"/>
 </Form>
 </Form>
