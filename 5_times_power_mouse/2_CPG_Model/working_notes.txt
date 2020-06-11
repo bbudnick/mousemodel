@@ -1,0 +1,54 @@
++++++++++++++++ NOTES ++++++++++++++++
+
+
+Calculating muscle parameters lecture is LECTURE 5 and LECTURE 9
+
+
+
+% F_max = 0.549;  % ILI
+% F_max = 2.828   % VL
+% F_max = 0       % PAT
+% F_max = 0.069   % EHL
+% F_max = 0.876   % BFA
+% F_max = 0.307   % POP
+% F_max = 0.591   % SOL
+
+% ILI
+
+max_length = 0.03864385236
+min_length = 0.03864385236
+
+% VL
+
+max_length = 
+min_length = 
+
+% PAT
+
+max_length = 
+min_length = 
+
+% EHL
+
+
+max_length = 
+min_length = 
+
+% BFA
+
+max_length = 0.0413840105
+min_length = 0.0413840105
+
+% POP
+
+max_length = 0.02741427958
+min_length = 0.02741427958
+
+% SOL
+
+max_length = 0.007208758752
+min_length = 0.01042294598
+
+
+
+
